@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.331e8e8a.css",
-    "main.js": "/static/js/main.42720229.js",
-    "static/js/787.85ec1d7c.chunk.js": "/static/js/787.85ec1d7c.chunk.js",
+    "main.css": "/static/css/main.a8090f2c.css",
+    "main.js": "/static/js/main.75cdfd35.js",
+    "static/js/453.2e7e561a.chunk.js": "/static/js/453.2e7e561a.chunk.js",
     "static/media/cardbg.png": "/static/media/cardbg.a0ebc902797cf3e2771d.png",
     "static/media/loginPhoto.jpg": "/static/media/loginPhoto.603aa2382079d01aa43f.jpg",
     "static/media/BiharKrishiLogo.svg": "/static/media/BiharKrishiLogo.5693121a823bbc8fd58ab5973b04aca2.svg",
@@ -40,12 +40,12 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.a286d1b93df9a96e7508ee04450277e0.svg",
     "static/media/stepper-active.svg": "/static/media/stepper-active.8430e78548c586331905be4f4d7db13a.svg",
     "static/media/stepper-active-dark.svg": "/static/media/stepper-active-dark.8391ff24399f6d2c179259a00b566336.svg",
-    "main.331e8e8a.css.map": "/static/css/main.331e8e8a.css.map",
-    "main.42720229.js.map": "/static/js/main.42720229.js.map",
-    "787.85ec1d7c.chunk.js.map": "/static/js/787.85ec1d7c.chunk.js.map"
+    "main.a8090f2c.css.map": "/static/css/main.a8090f2c.css.map",
+    "main.75cdfd35.js.map": "/static/js/main.75cdfd35.js.map",
+    "453.2e7e561a.chunk.js.map": "/static/js/453.2e7e561a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.331e8e8a.css",
-    "static/js/main.42720229.js"
+    "static/css/main.a8090f2c.css",
+    "static/js/main.75cdfd35.js"
   ]
 }
