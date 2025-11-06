@@ -1,0 +1,11 @@
+.table-checkbox {
+    color: #fff !important;
+}
+
+.table-header-separator {
+    border-right: 1px solid #A2ABA6;
+}
+
+.dark-theme .table-header-separator {
+    border-right: 1px solid #1a1d21;
+}

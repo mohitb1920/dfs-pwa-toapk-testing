@@ -1,0 +1,14 @@
+<svg width="200" height="150" viewBox="0 0 200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="150" fill="url(#paint0_linear_19_67297)"/>
+<path d="M100 90C91.75 90 84.6875 87.0625 78.8125 81.1875C72.9375 75.3125 70 68.25 70 60C70 51.75 72.9375 44.6875 78.8125 38.8125C84.6875 32.9375 91.75 30 100 30C108.25 30 115.312 32.9375 121.188 38.8125C127.062 44.6875 130 51.75 130 60C130 68.25 127.062 75.3125 121.188 81.1875C115.312 87.0625 108.25 90 100 90ZM40 150V129C40 124.75 41.0937 120.844 43.2812 117.281C45.4688 113.719 48.375 111 52 109.125C59.75 105.25 67.625 102.344 75.625 100.406C83.625 98.4688 91.75 97.5 100 97.5C108.25 97.5 116.375 98.4688 124.375 100.406C132.375 102.344 140.25 105.25 148 109.125C151.625 111 154.531 113.719 156.719 117.281C158.906 120.844 160 124.75 160 129V150H40Z" fill="url(#paint1_linear_19_67297)"/>
+<defs>
+<linearGradient id="paint0_linear_19_67297" x1="100" y1="0" x2="100" y2="150" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#DBEFBC" stop-opacity="0.5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_19_67297" x1="100" y1="30" x2="100" y2="150" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A5C4B"/>
+<stop offset="1" stop-color="#85BC31"/>
+</linearGradient>
+</defs>
+</svg>

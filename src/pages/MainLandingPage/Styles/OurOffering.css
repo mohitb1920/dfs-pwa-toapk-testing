@@ -1,0 +1,27 @@
+.main-container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.secondary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* margin-block: 40px; */
+}
+.header {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.content {
+  width: 80vw !important;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  .content {
+    width: 100%;
+  }
+}

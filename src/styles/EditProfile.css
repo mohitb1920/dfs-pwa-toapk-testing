@@ -1,0 +1,135 @@
+.edit-profile-header {
+  @apply font-bold text-xl pb-5 !important;
+}
+.change-password-button {
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  text-transform: none !important;
+}
+.edit-profile-header-section {
+  @apply w-full h-32 rounded-md flex flex-col justify-end px-7 mt-3 relative;
+  height: 180px;
+}
+.edit-profile-employee-name {
+  max-width: 55%;
+  word-break: break-all;
+}
+.dark-theme .edit-profile-employee-name {
+  color: #fff !important;
+}
+.header-profile-image {
+  /* position: absolute !important;
+  bottom: -60px !important; */
+  height: 175px !important;
+  width: 175px !important;
+  margin-left: 4.5rem;
+  cursor: pointer;
+}
+.header-camera-icon {
+  position: absolute !important;
+  /* bottom: -33px !important; */
+  left: 130px !important;
+  top: 57.5px !important;
+  height: 60px !important;
+  width: 60px !important;
+  opacity: 0.6 !important;
+  cursor: pointer;
+  display: none !important;
+}
+.name-box-styles {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  width: 100%;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+.profilePhotoBox {
+  /* height: 175px; */
+  width: 100%;
+  left: 0;
+  position: absolute;
+  top: 108px;
+  z-index: 1;
+}
+.profile-image-container {
+  height: 100%;
+  display: flex;
+}
+.image-box-effect:hover .header-camera-icon {
+  display: block !important; /* show on hover */
+}
+.edit-profile-form-container {
+  @apply bg-neutral-100 p-4 md:p-6 mt-44 sm:mt-36 rounded-lg;
+}
+
+.dark-theme .edit-profile-form-container {
+  background-color: #222529;
+}
+
+.edit-profile-form-section {
+  @apply bg-white p-4 rounded-lg;
+}
+
+.dark-theme .edit-profile-form-section {
+  background-color: #1a1d21;
+}
+
+.history-page-details-container {
+  @apply bg-neutral-100 rounded-xl;
+  padding: 24px;
+}
+
+.dark-theme .history-page-details-container {
+  background-color: #222529;
+}
+.history-info-card {
+  @apply h-36 w-full rounded-lg flex flex-col justify-center items-center;
+  transition: transform 0.2s ease-in-out;
+  cursor: pointer;
+}
+.dark-theme .history-info-card {
+  background: #1a1d21 !important;
+}
+
+.history-info-card:hover {
+  transform: scale(1.02);
+}
+
+.history-info-card-selected {
+  background: linear-gradient(180deg, #85bc31 0%, #d0f19e 100%) !important;
+}
+
+.dark-theme .history-info-card-selected {
+  background: #85bc31 !important;
+}
+.history-info-count {
+  @apply font-extrabold font-inter text-4xl mb-4 !important;
+  color: #f7d508;
+}
+
+.history-info-label {
+  @apply font-bold font-inter text-sm !important;
+}
+
+.light-theme .profile-container {
+  background-color: white;
+}
+
+.farmer-registration-form-grid {
+  @apply py-4 mt-36 rounded-lg !important;
+}
+@media screen and (max-width: 600px) {
+  .profile-image-container {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .profilePhotoBox {
+    bottom: -180px;
+  }
+
+  .name-box-styles {
+    margin-left: 0px;
+  }
+}

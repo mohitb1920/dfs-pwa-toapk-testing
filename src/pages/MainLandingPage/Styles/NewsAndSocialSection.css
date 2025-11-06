@@ -1,0 +1,63 @@
+.news-social-main-box {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-block: 32px; */
+  overflow: hidden !important;
+
+  background-color: #f0f5f2;
+}
+.news-social-section {
+  margin: auto;
+  overflow: hidden !important;
+  /* height: 315px; */
+}
+
+.news-social-section .MuiCard-root {
+  height: 100%;
+}
+
+.news-social-section .MuiPaper-root {
+  height: 100%;
+  overflow-y: auto;
+  padding: 16px;
+}
+
+.news-social-section hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 8px 0;
+}
+.news-bulletin {
+  height: 100%;
+  overflow-y: auto;
+  padding: 16px;
+}
+.dark-theme .news-bulletin {
+  background-color: rgba(28, 33, 30, 1);
+}
+
+.news-bulletin hr {
+  margin: 16px 0;
+}
+.nav-buttons-wrapper {
+  position: absolute;
+  bottom: 10px; /* Position near the bottom */
+  width: 100%;
+  display: flex;
+  justify-content: space-between; /* Space them on the left and right */
+  padding: 0 10px; /* Adds some spacing from the edges */
+}
+
+.nav-buttons-wrapper button {
+  position: relative; /* Make sure buttons don't overlap with other elements */
+}
+
+.MuiCarousel-indicators {
+  position: absolute;
+  bottom: 0; /* Align the indicators to the bottom */
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Center the dots */
+}

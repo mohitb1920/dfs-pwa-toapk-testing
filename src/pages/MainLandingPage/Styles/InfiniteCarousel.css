@@ -1,0 +1,10 @@
+.splide {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.splide__slide {
+  text-align: center;
+  font-size: 1.2rem;
+  width: min-content !important;
+}

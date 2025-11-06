@@ -1,0 +1,109 @@
+.loader-style {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.weather-direction {
+  display: flex;
+  align-items: start;
+}
+.header-display {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px !important;
+}
+@media (max-width: 900px) {
+  .header-display {
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 24px;
+    margin-bottom: 40px !important;
+  }
+}
+.forecast-header-styles {
+  font-weight: 700 !important;
+  margin-top: 40px !important;
+  margin-bottom: 20px !important;
+}
+.card-weather-style {
+  padding: 40px;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1) !important;
+}
+.dark-theme .card-weather-style {
+  background-color: rgba(34, 37, 41, 1);
+}
+.weather-style {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 40px;
+}
+.border-cell {
+  @apply font-semibold border-r;
+
+  border-color: #ffffff !important;
+}
+
+.tempe-style {
+  color: rgba(26, 92, 75, 1);
+}
+.dark-theme .tempe-style {
+  color: white;
+}
+.light-theme .date-time {
+  color: rgba(61, 69, 65, 1);
+}
+
+.imageIconStyle {
+  background-color: rgba(208, 241, 158, 1);
+  padding: 8px;
+  border-radius: 50%;
+  height: 56px;
+  width: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cell-style {
+  display: flex !important;
+  box-sizing: border-box;
+  height: 100%;
+}
+.temp-styles {
+  display: flex;
+  align-items: baseline;
+}
+.location-text-box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: baseline;
+}
+.location-weather-style {
+  /* color: rgba(92, 100, 96, 1); */
+  font-weight: 400;
+}
+.temperature-style-box {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+@media (max-width: 640px) {
+  .card-weather-style {
+    padding: 24px;
+  }
+
+  .header-display {
+    margin-bottom: 16px !important;
+  }
+  .location-weather-style {
+    text-align: right;
+  }
+}

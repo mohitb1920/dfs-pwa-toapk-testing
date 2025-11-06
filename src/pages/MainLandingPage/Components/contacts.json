@@ -1,0 +1,71 @@
+{
+    "contacts": [
+        {
+            "name": {
+                "en": "Sri Sanjay Kumar Agarwal, I.A.S.",
+                "hi": "Sri Sanjay Kumar Agarwal, I.A.S."
+            },
+            "position": {
+                "en": "Secretary",
+                "hi": "Secretary"
+            },
+            "phone": "0612-2215373",
+            "email": "agridep-bih@nic.in"
+        },
+        {
+            "name": {
+                "en": "Dr. Birendra Prasad Yadav, I.A.S.",
+                "hi": "Dr. Birendra Prasad Yadav, I.A.S."
+            },
+            "position": {
+                "en": "Special Secretary",
+                "hi": "Special Secretary"
+            }
+        }
+    ],
+    "CmAgriMinister": [
+        {
+            "name": {
+                "en": "Shri Nitish Kumar",
+                "hi": "Shri Nitish Kumar"
+            },
+            "position": {
+                "en": "Hon. Chief Minister",
+                "hi": "Hon. Chief Minister"
+            },
+            "phone": "0612-2222079",
+            "email": "agridep-bih@nic.in",
+            "imageUrl": "https://filestoragedfs.blob.core.windows.net/publicresources/images/home/CMPhoto.svg"
+        },
+        {
+            "name": {
+                "en": "Shri Mangal Pandey",
+                "hi": "Shri Mangal Pandey"
+            },
+            "position": {
+                "en": "Hon. Minister",
+                "hi": "Hon. Minister"
+            },
+            "phone": "0612-2231212",
+            "imageUrl": "https://filestoragedfs.blob.core.windows.net/publicresources/images/home/AgriPhoto.svg"
+        }
+    ],
+    "about": {
+        "name": {
+            "en": "About Bihar Krishi",
+            "hi": "बिहार कृषि (एक परिचय)"
+        },
+        "description": {
+            "en": "The \"Bihar Krishi\" mobile application, launched by the Agriculture Department of the Bihar Government under the 4th Agriculture Roadmap, is a one-stop digital platform designed to empower farmers with easy access to vital agricultural resources and services.",
+            "hi": "चतुर्थ कृषि रोडमैप के अंतर्गत, कृषि विभाग बिहार सरकार द्वारा राज्य के किसानों को कृषि विभाग की सभी योजनाओं और कृषि संबंधी जानकारी उपलब्ध कराने के लिए \"बिहार कृषि\" मोबाइल एप्लीकेशन की शुरुआत की गई।"
+        },
+        "description2": {
+            "en": "This platform will serve as a single-window platform for agricultural services, enabling farmers to apply for various agriculture-related schemes of the Bihar Government and access other services such as finance, market linkages, and advisory support. The platform integrates public, private, and non-profit service providers, allowing Bihar's farmers to benefit from all types of agricultural facilities available within the ecosystem at a single point.",
+            "hi": "यह प्लेटफॉर्म किसानों के लिए कृषि सेवाओं हेतु एक सिंगल विंडो के रूप में काम करेगा, जिससे वे बिहार सरकार की कृषि संबंधित योजनाओं के लिए आवेदन कर सकेंगे। इसके साथ ही, अन्य कृषि सेवाएं जैसे ऋण, बाजार से जुड़ाव, और सलाहकार सेवाओं की जानकारी भी उपलब्ध कराई जाएगी। इस प्लेटफॉर्म में सार्वजनिक, निजी और गैर-लाभकारी सेवा प्रदाताओं को शामिल किया जाएगा ताकि बिहार के कृषक एक ही स्थान पर कृषि पारिस्थितिकी तंत्र में उपलब्ध सभी प्रकार की सुविधाओं का लाभ उठा सकें।"
+        },
+        "description3": {
+            "en": "The \"Bihar Krishi\" mobile application also offers a Grievance Redressal Module (GRM), enabling farmers to register any issues related to agriculture directly through the app.",
+            "hi": "इसके अतिरिक्त, \"बिहार कृषि\" मोबाइल एप्लिकेशन में शिकायत निवारण मॉड्यूल (GRM) की सुविधा भी उपलब्ध है, जिसमें किसान कृषि संबंधी समस्याओं को दर्ज कर सकते हैं।"
+        }
+    }
+}

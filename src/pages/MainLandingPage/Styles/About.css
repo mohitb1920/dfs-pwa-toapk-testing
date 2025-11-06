@@ -1,0 +1,140 @@
+.AboutHeaderBox {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.AboutLearnButton {
+  margin-top: 40px !important;
+}
+
+.AboutImageBox {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+
+.AboutContactCard {
+  padding: 0;
+  margin-bottom: 16px;
+  padding: 0px !important;
+}
+
+.AboutText {
+  font-weight: 700;
+}
+
+.AboutDescription {
+  padding-bottom: 10px;
+  /* color: rgba(26, 92, 75, 1); */
+  font-weight: 500 !important;
+}
+
+.AboutDescriptionEllipsis {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  text-wrap: wrap;
+  display: -webkit-box;
+  -webkit-line-clamp: none;
+  -webkit-box-orient: vertical;
+}
+
+.PhoneMailContainer {
+  display: flex;
+  margin-right: 20px;
+  align-items: center;
+  margin-bottom: 0px !important;
+}
+
+.grid-about-section {
+  padding-inline: 16px !important;
+}
+.dark-theme .grid-about-section {
+  background-color: rgba(34, 37, 41, 1);
+  padding: 16px !important;
+}
+
+.IconWrapper {
+  border-radius: 50%;
+  margin-right: 5px !important;
+  padding: 3px !important;
+}
+
+.light-theme .IconWrapper {
+  background-color: rgba(26, 92, 75, 1);
+  color: white;
+}
+.dark-theme .IconWrapper {
+  background-color: rgba(133, 188, 49, 1);
+  color: rgba(28, 33, 30, 1);
+}
+
+.contacts-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+.contacts-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+.contacts-icon-wrapper {
+  display: flex;
+  align-items: center;
+}
+.contact-email-id-text {
+  word-break: break-all;
+  text-wrap: wrap;
+}
+.contact-details {
+  display: flex;
+  justify-content: start;
+  padding-top: 12px;
+}
+.paragraphAbout {
+  padding-top: 1;
+  column-count: 2;
+  column-gap: 1.5em;
+  text-align: left;
+}
+@media screen and (max-width: 640px) {
+  .AboutText {
+    text-align: center;
+  }
+
+  .AboutDescription {
+    text-align: center;
+  }
+
+  .AboutDescriptionEllipsis {
+    text-align: center;
+  }
+
+  .AboutImageBox {
+    flex-direction: column;
+    gap: 20px;
+    margin-block: 40px;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact-details {
+    flex-direction: column;
+    gap: 12px;
+  }
+  .paragraphAbout {
+    padding-top: 1;
+    column-count: 1;
+    text-align: justify;
+  }
+.contacts-page-header {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.grid-about-section {
+  padding-inline: 0px !important;
+}
+}

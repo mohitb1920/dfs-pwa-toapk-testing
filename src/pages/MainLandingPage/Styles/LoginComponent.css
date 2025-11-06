@@ -1,0 +1,28 @@
+.lockedRoundedIcon-box {
+  margin-right: 10px;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px;
+  /* padding: 8px; */
+}
+.lockedRoundedIcon {
+  height: 24px !important;
+  width: 24px !important;
+}
+
+.light-theme .lockedRoundedIcon-box {
+  color: rgba(26, 92, 75, 1);
+  background: var(--Brand-light-green-200, rgba(208, 241, 158, 1));
+}
+
+.dark-theme .lockedRoundedIcon-box {
+  color: rgba(28, 33, 30, 1);
+  background: rgba(217, 217, 217, 1);
+}
+.dark-theme .leftSideLoginIn {
+  background-color: rgba(28, 33, 30, 1) !important;
+}

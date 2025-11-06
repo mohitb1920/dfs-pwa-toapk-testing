@@ -1,0 +1,256 @@
+{
+    "company-list": [
+        {
+            "CompanyID": 12,
+            "CompanyName": "MS. Netafim Irrigation india Pvt. Ltd",
+            "Address": "Vadodara, Gujarat",
+            "MobileNo": "8142244990",
+            "EMailId": "k.mahamulkar@netafim.com"
+        },
+        {
+            "CompanyID": 13,
+            "CompanyName": "MS. Premier Irrigation Adritec Pvt. Ltd",
+            "Address": "Alipur Road, Kolkata-700027",
+            "MobileNo": "9771497505",
+            "EMailId": "sales@pial.in"
+        },
+        {
+            "CompanyID": 14,
+            "CompanyName": "MS. Jain Irrigation Systems ltd.",
+            "Address": "jain plastic park Jalgao, Maharashtra",
+            "MobileNo": "9473191796",
+            "EMailId": "jainpatna@jains.com"
+        },
+        {
+            "CompanyID": 15,
+            "CompanyName": "MS. Mahindra EPC IRRIGATION LIMITED.",
+            "Address": "Ambad, Nashik - 422010 Maharashtra",
+            "MobileNo": "9631862448",
+            "EMailId": "sverma@epcind.com"
+        },
+        {
+            "CompanyID": 16,
+            "CompanyName": "MS. Sri Bhandari Plastic pvt ltd.",
+            "Address": "Sahpura Jaipur Rajasthan",
+            "MobileNo": "9772455557",
+            "EMailId": "bhandari.p.ltd@gmail.com"
+        },
+        {
+            "CompanyID": 17,
+            "CompanyName": "MS. Bharat Drip Irrigation And Agro",
+            "Address": "Industrial Area, sirsi road, Jaipur",
+            "MobileNo": "9934702917",
+            "EMailId": "bharatdripirrigation@gmail.com"
+        },
+        {
+            "CompanyID": 19,
+            "CompanyName": "SWETA ENTERPRISES",
+            "Address": "RING ROAD - 2, MADRAS ROAD LINES, BHANPURI, INDUSTRIAL AREA, RAIPUR - 492001",
+            "MobileNo": "9060996949",
+            "EMailId": "sweta.enterprises88@gmail.com"
+        },
+        {
+            "CompanyID": 29,
+            "CompanyName": "M/S Rivulis Irrigation India Pvt. Ltd.",
+            "Address": "Shivajinagar, Pune-411005, Maharashtra",
+            "MobileNo": "9896193515, 9057906775",
+            "EMailId": "vikramaditya.verma@rivulis.com"
+        },
+        {
+            "CompanyID": 32,
+            "CompanyName": "M/S Captain Poly Plast Ltd.",
+            "Address": "Dhebar Road, Rajkot-360002(Guj.)",
+            "MobileNo": "9801158270",
+            "EMailId": "delhi@captainpolyplast.in,mukul69pandey@gmail.com"
+        },
+        {
+            "CompanyID": 52,
+            "CompanyName": "M/S Om Irritech Ltd.",
+            "Address": "Survey No-36, Behind Emerald Club, Near Shivam-2, Kalawad Road to Devda Road, Village:Devda, Tal:Lodhika, Dist-Rajkot(Gujarat)",
+            "MobileNo": "6200005202",
+            "EMailId": "omirritech.bihar@gmail.com"
+        },
+        {
+            "CompanyID": 43,
+            "CompanyName": "M/S Irrilink Drip Irrigation Industries",
+            "Address": "3, Shubh Complex, Near Vishwkarma Temple, Highway, Deesa-385535(Gujarat)",
+            "MobileNo": "9904144485",
+            "EMailId": "irrilinkdripirrigation@gmail.com"
+        },
+        {
+            "CompanyID": 30,
+            "CompanyName": "M/S Kisan Irrigations and Infrastructure Ltd.",
+            "Address": "Milinda Manor, 2, R.N.T Marg, Indore-452001 (M.P)",
+            "MobileNo": "9425062142, 9109135610",
+            "EMailId": "backoffice.kisan@gmail.com, ratnesh_kaurav@yahoo.com"
+        },
+        {
+            "CompanyID": 31,
+            "CompanyName": "M/S Tyagi Industries",
+            "Address": "231, Girijadham Colony, Near Bypass, Maxi road, Dewas (M.P)-455001",
+            "MobileNo": "9907483113, 6392767041",
+            "EMailId": "tyagiindustries123@gmail.com"
+        },
+        {
+            "CompanyID": 33,
+            "CompanyName": "M/S Nimbus Pipes Limited",
+            "Address": "G9C, 2nd Floor, Kabir Marg, Banipark, Jaipur, Rajasthan-302016",
+            "MobileNo": "7903642366",
+            "EMailId": "admin@nimbuspipes.com"
+        },
+        {
+            "CompanyID": 22,
+            "CompanyName": "M/S KOHINOOR INDUSTRIES",
+            "Address": "F-43, INDUSTRIAL AREA, SIKAR, RAJASTHAN - 332001",
+            "MobileNo": "9414036870",
+            "EMailId": "kkohinoor7@gmail.com"
+        },
+        {
+            "CompanyID": 38,
+            "CompanyName": "M/S Arihant Industries",
+            "Address": "38, Plot No-G-1/26, Road No-2, Bindayaka, RIICO, Indu. Area, Sirsi Road, Jaipur, Rajasthan-302012",
+            "MobileNo": "9928629483",
+            "EMailId": "arihantindustriesjaipur@yahoo.com"
+        },
+        {
+            "CompanyID": 40,
+            "CompanyName": "M/S Renown Irrigation Systems Ltd.",
+            "Address": "38, Survey No.54/2/P2, Plot No-2, N.H 8 B, Vill-Sukhpur, Junagadh-362310(Gujarat)",
+            "MobileNo": "8051295475",
+            "EMailId": "renownirrigation@gmail.com"
+        },
+        {
+            "CompanyID": 41,
+            "CompanyName": "M/S Makknow Industries",
+            "Address": "317, 3rd Floor, Rishabh Complex, M.G Road, Raipur-492001(C.G)",
+            "MobileNo": "9575544445",
+            "EMailId": "makknowindustries@rediffmail.com"
+        },
+        {
+            "CompanyID": 42,
+            "CompanyName": "M/S SS Pipe Industries",
+            "Address": "Plot No-99, Goharpur, Sonawa, Patna-800009",
+            "MobileNo": "9700800949",
+            "EMailId": "sspipepatna@gmail.com"
+        },
+        {
+            "CompanyID": 44,
+            "CompanyName": "M/S Paras Drip Irrigation",
+            "Address": "37, Industrial Estate-Rajnandgaon(C.G.)491441",
+            "MobileNo": "7903839384",
+            "EMailId": "parasdrip@gmail.com"
+        },
+        {
+            "CompanyID": 51,
+            "CompanyName": "M/S Oswal Hortitech Pvt. Ltd.",
+            "Address": "503, Anand Mangal 3, Opp. Core House, Ellisbridge, Ahmedabad, Gujarat-380006",
+            "MobileNo": "9726020898",
+            "EMailId": "oswal.agroind@gmail.com"
+        },
+        {
+            "CompanyID": 35,
+            "CompanyName": "M/S Anant Irrigation",
+            "Address": "38, AKVN, Industrial Area, Rudhi Bhawsinghpura Khandwa-450001(M.P)",
+            "MobileNo": "8871443686",
+            "EMailId": "anantirrigation@gmail.com"
+        },
+        {
+            "CompanyID": 36,
+            "CompanyName": "M/S Sri Ram Pipe Factory",
+            "Address": "38, G-1/130, RIICO Ind. Area Phase-1, Behror, Dist-Alwar-301701(Rajasthan)",
+            "MobileNo": "8709485379",
+            "EMailId": "shrirampipefactory@gmail.com"
+        },
+        {
+            "CompanyID": 37,
+            "CompanyName": "M/S Balson Polyplast Pvt. Ltd.",
+            "Address": "Survey no-13/2 P1, Plot No-4, NH 27 Sadak Piplaiya, Ta.Gondal, Dist-Rajkot, Gujarat-360311",
+            "MobileNo": "9879598457",
+            "EMailId": "balsonpolyplast@yahoo.co.in"
+        },
+        {
+            "CompanyID": 45,
+            "CompanyName": "M/S Holland Agritech Industries",
+            "Address": "Shop No-301, 1st Floor, Dynamic Centre, Zone-1, M.P Nagar, Bhopal-462011",
+            "MobileNo": "7869159999",
+            "EMailId": "hollandagritech@yahoo.com"
+        },
+        {
+            "CompanyID": 48,
+            "CompanyName": "M/S Perfect Polymers",
+            "Address": "319A, G.I.D.C-2, Sabalpur, Junagarh-362001, Gujarat",
+            "MobileNo": "9426220873",
+            "EMailId": "info@perfectgoldpolymers.com,perfectgold2000@gmail.com"
+        },
+        {
+            "CompanyID": 50,
+            "CompanyName": "M/S Rungta Irrigation Ltd.",
+            "Address": "101, Pragati Tower 26, Rajendra Place, New Delhi-110008",
+            "MobileNo": "8317002658",
+            "EMailId": "info@rungtairrigation.in"
+        },
+        {
+            "CompanyID": 39,
+            "CompanyName": "M/S Shree Salasar Industries",
+            "Address": "Plot No-8-A1, RIICO Industrial Area SARNA DOONGER, Jaipur, Rajasthan-302012",
+            "MobileNo": "9694160000",
+            "EMailId": "shreesalasarindustries01@gmail.com"
+        },
+        {
+            "CompanyID": 46,
+            "CompanyName": "M/S Newton Pipe Industry",
+            "Address": "Vill-Meyar, P.O-Kairy Meyar, Noorsarai(Nalanda) 803118, Bihar",
+            "MobileNo": "9431686634",
+            "EMailId": "salesnewtonpipe@gmail.com"
+        },
+        {
+            "CompanyID": 47,
+            "CompanyName": "M/S Pawan Polytex Private Limited",
+            "Address": "F-20, Rico Industrial Area, Nokha-334803, Bikaner, Rajasthan",
+            "MobileNo": "9934172149",
+            "EMailId": "pawanpolytex@gmail.com"
+        },
+        {
+            "CompanyID": 49,
+            "CompanyName": "M/S Sonam Agrotech Pvt. Ltd.",
+            "Address": "Vill- Godhiya chaman, NH-77 Bhagwanpur, District- Vaishali-844114",
+            "MobileNo": "7739836979",
+            "EMailId": "sonamagrotechpvtltd@gmail.com"
+        },
+        {
+            "CompanyID": 53,
+            "CompanyName": "M/S Signet Industries Limited",
+            "Address": "1003, Meadows Building, Sahar Plaza Complex, J.B. Nagar, Andheri(East), Mumbai-400059",
+            "MobileNo": "8866088010",
+            "EMailId": "info@groupsignet.com"
+        },
+        {
+            "CompanyID": 55,
+            "CompanyName": "M/S Pragati Pipe Industries",
+            "Address": "Rishabh Complex, Room No-220, 2nd Floor, MG Road, Raipur-492001",
+            "MobileNo": "8292997354",
+            "EMailId": "pragatipipe@gmail.com"
+        },
+        {
+            "CompanyID": 54,
+            "CompanyName": "M/S Siri Polymers",
+            "Address": "Shed No-45, Plot No-16, IDA Chertapally, Phase-II, Hyderabad, Telangana-500051",
+            "MobileNo": "9162681233",
+            "EMailId": null
+        },
+        {
+            "CompanyID": 56,
+            "CompanyName": "M/S Namosri Irrigartion",
+            "Address": "Gaushala Road, Bhachiyar, Dist-Jamui, Bihar-811307",
+            "MobileNo": "9060877725",
+            "EMailId": "namosriirrigation2154@gmail.com"
+        },
+        {
+            "CompanyID": 27,
+            "CompanyName": "M/S KOTHARI AGRITECH Pvt. Ltd.",
+            "Address": "Solapur, Maharashtra",
+            "MobileNo": "9021900696",
+            "EMailId": "bipin.kumar@kotharigroupindia.com"
+        }
+    ]
+}

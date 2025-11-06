@@ -1,0 +1,129 @@
+.support-cards-container {
+    @apply grid grid-cols-1 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-4 sm:ml-4 w-[95%] sm:w-full m-auto;
+}
+
+.support-card {
+    @apply gap-4 py-2 rounded-xl flex flex-col shadow-md border-primary;
+    box-shadow: 1px 0px 4px 1px #0000001C;
+}
+
+.support-card-header {
+    @apply text-[16px] text-black;
+}
+
+.support-card-button {
+    @apply h-full w-full rounded-full !important;
+}
+
+.report-issue-page-container {
+    @apply flex justify-between mb-20 mt-1 px-5 pt-3;
+}
+.report-issue-form {
+    @apply rounded-md p-3 pt-1.5;
+    box-shadow: 0px 0px 4px 0px #00000040;
+    width: 600px;
+}
+
+.support-user-type-card {
+    @apply flex items-center rounded-md px-2 py-1 flex-1 cursor-pointer box-border;
+    box-shadow: 0px 0px 4px 0px #00000033;
+}
+
+.support-user-selected {
+    background: #E8F5E9;
+}
+.support-input-item-flex {
+    @apply flex-1;
+}
+
+.support-input-field-label {
+    @apply font-inter text-sm font-medium text-light-black mb-1 !important;
+}
+
+.dark-theme .support-input-field-label {
+    color: #fff !important;
+}
+.support-no-file-selected {
+    @apply font-inter text-sm font-medium text-black-50 mb-1 text-center !important;
+}
+.support-action-button {
+    @apply rounded-lg bg-secondary w-full py-2 !important;
+}
+
+.support-action-button-edit {
+    @apply rounded-lg bg-primary w-full py-2 mr-1 !important;
+}
+.track-issue-container {
+    margin: auto;
+    margin-top: 50px;
+    width: 968px;
+    padding: 35px 11px;
+    gap: 0px;
+    border-radius: 10px 10px 0px 0px;
+    border: 1px solid #DDDDDD;
+    @apply flex items-center flex-col;
+}
+
+.track-issue-details-box {
+    width: 875px;
+    padding: 26px 16px;
+    gap: 24px;
+    border-radius: 10px;
+    border-color: #096B37;
+    border-width: 1px 1px 5px 1px;
+    border-style: solid;
+}
+
+.track-details-header1 {
+    @apply text-primary;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+}
+
+.track-details-header2 {
+    @apply text-light-black pb-8 pt-1;
+    font-weight: 600 !important;
+    font-size: 16px !important;
+}
+
+.track-action-button {
+    @apply rounded-lg bg-secondary my-4 py-1.5 !important;
+}
+
+.support-verify-otp-header {
+    @apply text-white rounded-md px-3 py-1;
+    background-color: #669933;
+}
+
+.support-enter-mobile-header {
+    font-family: Inter;
+    @apply font-inter font-semibold text-lg mb-8 mt-2 !important;
+
+}
+
+@media (max-width: 978px) {
+    .support-user-type-card {
+        flex: 100% !important;
+    }
+
+    .support-input-item-flex {
+        flex: 100% !important;
+    }
+.track-issue-container {
+    width: 95% !important;
+}
+
+.track-issue-details-box {
+    width: 95% !important;
+}
+}
+@media (max-width: 768px) {
+    .tech-support-page-logo {
+        display: none;
+    }
+
+    .report-issue-page-container {
+        justify-content: center;
+        padding: 10px;
+    }
+}

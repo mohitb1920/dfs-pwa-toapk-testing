@@ -1,0 +1,1972 @@
+{
+    "other_equipments-list": [
+        {
+            "id": 232,
+            "en": "Manual Agri. Imp. Kit (Improved Sickle, Serrated Sickle, Maize Sheller, Khurpi, Weeder and Kudal)",
+            "hi": "A. Small Agriculture Manual Tool Kit \n (Khurpi, Improve sickel, Hoe, Manual Maize sheller, Manual weeder)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 800
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 80,
+                            "maxAmount": 800
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 192,
+            "en": "Rotary Mulcher (35 HP & above)",
+            "hi": "रोटरी मल्चर (35 एच.पी. एवं उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 120000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 110000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 208,
+            "en": "SMS (Straw Management System)",
+            "hi": "एस.एम.एस. (स्ट्राॅ मैनेजमेन्ट सिस्टम)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 88000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 82000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 28,
+            "en": "StrawBalerWithoutRack",
+            "hi": "स्ट्राॅ बेलर विदाउट रैक",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 250000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 225000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 205,
+            "en": "Super Seeder (Tractor Operated)- 6 feet",
+            "hi": "सुपर सीडर (ट्रैक्टर चालित) 6 फीट",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 152000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 142000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 206,
+            "en": "Super Seeder (Tractor Operated)- 7 feet",
+            "hi": "सुपर सीडर (ट्रैक्टर चालित) 7 फीट",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 160000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 150000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 207,
+            "en": "Super Seeder (Tractor Operated)- 8 feet",
+            "hi": "सुपर सीडर (ट्रैक्टर चालित) 8 फीट",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 168000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 157000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 195,
+            "en": "Happy Seeder(9-11 tyne)",
+            "hi": "हैप्पी सीडर (9 से 11 टाईन)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 120000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 110000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 210,
+            "en": "Rotary slasher(Driven by Tractor above 35 BHP)",
+            "hi": "रोटरी स्लैशर",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 37500
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 211,
+            "en": "Paddy Straw Chopper(Driven by Tractor above 35 BHP)",
+            "hi": "पैडी स्ट्राॅ चाॅपर",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 120000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 110000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 103,
+            "en": "Zero Tillage(Above 9 tyne)",
+            "hi": "जीरो टीलेज (9 टाईन से उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 43000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 40000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 107,
+            "en": "Seed cum Fertilizer Drill(Above 9 tyne)",
+            "hi": "सीड-कम-फर्टीलाईजर ड्रील (9 टाईन से उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 43000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 40000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 124,
+            "en": "Reaper",
+            "hi": "रीपर (ट्रैक्टर से चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 30000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 25000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 95,
+            "en": "Reversable M.B.Plough(Above 35 HP)",
+            "hi": "रिभरसिबुल एम॰बी॰प्लाऊ 35 एच॰पी॰ से उपर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 44000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 35000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 237,
+            "en": "Square Baler (working width min. 130 cm)",
+            "hi": "स्क्वायर बेलर (वर्किंग विथ 130 सेंटीमीटर कम से कम)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 625000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 500000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 238,
+            "en": "Hay rack (working width 1.0 M min.)",
+            "hi": "हे रैक (वर्किंग विथ 1 मीटर कम से कम)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 45000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 36000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 45,
+            "en": "Self Propelled Reaper",
+            "hi": "सेल्फ प्रोपेल्ड रीपर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 60000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 50000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 181,
+            "en": "Brush Cutter(Below 3 BHP petrol driven)",
+            "hi": "ब्रस कटर 3 बी॰एच॰पी॰ से कम",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 12500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 10000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 182,
+            "en": "Brush Cutter(3-5 BHP)",
+            "hi": "ब्रस कटर 3-5 बी॰एच॰पी॰ तक",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 20000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 16000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 44,
+            "en": "Straw Reaper",
+            "hi": "स्ट्रा रीपर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 130000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 104000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 188,
+            "en": "Reaper-cum-Binder(s/p) 3 wheel",
+            "hi": "रीपर-कम-बाइन्डर (स्वचालित) 3 व्हील",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 175000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 140000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 189,
+            "en": "Reaper-cum-Binder(s/p) 4 wheel",
+            "hi": "रीपर-कम-बाइन्डर (स्वचालित) 4 व्हील",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 250000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 200000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 123,
+            "en": "Reaper cum Binder(T/D)",
+            "hi": "रीपर-कम-बाइन्डर (ट्रैक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 150000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 120000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 194,
+            "en": "Sub-Soiler(3 tyne)",
+            "hi": "सब-स्वायलर (3 टाईन )",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 22000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 75,
+                            "maxAmount": 20000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 159,
+            "en": "Disc Plough",
+            "hi": "डिस्क प्लाऊ टैªक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 24000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 20000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 96,
+            "en": "Disc Harrow(T/D)",
+            "hi": "डिस्क हैरो (टैªक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 30000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 25000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 97,
+            "en": "Cultivator(T/D)",
+            "hi": "कल्टीवेटर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 14000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 10000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 141,
+            "en": "Leveller T/D (6 Feet & Above)",
+            "hi": "लेवेलर (ट्रैक्टर चालित)-6 फीट या उससे उपर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 7500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 5000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 20,
+            "en": "Laser Land Leveller",
+            "hi": "लेजर लैण्ड लेवेलर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 180000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 150000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 52,
+            "en": "Ridger/Trencher",
+            "hi": "रीजर/ट्रेन्चर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 11000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 7500
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 3,
+            "en": "PaddyDrumSeeder",
+            "hi": "पैडी ड्रम सीडर (मैनुअल)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 3750
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 3000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 183,
+            "en": "Rice Wheat Seeder",
+            "hi": "राईस-व्हीट सीडर (मानव चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 6000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 5000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 109,
+            "en": "Potato Planter(Above 35 HP)",
+            "hi": "पोटैटो प्लान्टर (35 एचपी से उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 63000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 50000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 229,
+            "en": "Rotavator/Rotary Tiller (Driven by Tractor Above 35 BHP)",
+            "hi": "रोटावेटर/ रोटरी टीलर 35 बीएचपी से उपर टैªक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 30000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 25000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 139,
+            "en": "Paddy Transplanter(S/P) above 4-row",
+            "hi": "स्वचालित पैडी ट्रांस्पलांटर (4 कतार से ऊपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 240000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 200000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 138,
+            "en": "Paddy Transplanter(S/P) upto 4-row",
+            "hi": "स्वचालित पैडी ट्रांस्पलांटर (4 कतार तक)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 150000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 120000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 89,
+            "en": "Power Tiller(8 Hp & Above)",
+            "hi": "पावर टीलर (8 एच॰पी॰ या उससे उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 75000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 60000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 140,
+            "en": "M.B.Plough 2-3 bottom(35 HP & Above)",
+            "hi": "एम॰बी॰प्लाऊ 2-3 बाॅटम (35 एच॰पी॰ या उससे उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 15000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 12000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 239,
+            "en": "Raised Bed Planter (Driven by Tractor above 35 BHP)",
+            "hi": "रेज्ड बेड प्लान्टर (35 बी॰एच॰पी॰ से उपर ट्रैक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 32000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 127,
+            "en": "Power Maize Sheller(Electric motor operated)",
+            "hi": "पावर मेज सेलर (इलेक्ट्रीक मोटर से चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 15000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 10000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 129,
+            "en": "Power Maize Thresher(Electric motor operated)",
+            "hi": "मेज थ्रेसर (इलेक्ट्रीक मोटर से चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 15000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 10000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 144,
+            "en": "Potato Digger (Above 35 HP tractor operated)",
+            "hi": "पौटेटो डीगर (35 एच॰पी॰ से अधिक शक्ति के टैªक्टर द्वारा चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 44000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 35000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 22,
+            "en": "HDPE Irrigation Pipe",
+            "hi": "सिंचाई पाईप एच॰डी॰पी॰ई॰ (300 मी0 तक) अनुदान 50/-रू॰ प्रति मीटर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 15000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 15000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 75,
+            "en": "HDPE Laminated Woven Layflat Tube",
+            "hi": "एच॰डी॰पी॰ लैमिनेटेड वुभेन ले फ्लैट ट्यूब (100 मी. तक) अनुदान 20/-रू॰ प्रति मीटर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 2000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 2000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 163,
+            "en": "Plant Protection Equip. Manual Sprayer",
+            "hi": "मानव चालित पौधा संरक्षण यंत्र (स्प्रेयर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 750
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 600
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 74,
+            "en": "Manual Rocker Sprayer(Gator)",
+            "hi": "मानव चालित राॅकर स्प्रेयर (गटोर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 3000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 2500
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 185,
+            "en": "Power Sprayer(Battery operated)",
+            "hi": "पावर स्प्रेयर (बैट्री आॅपरेटेड)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 2000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 1500
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 137,
+            "en": "Boom Sprayer",
+            "hi": "बूम स्प्रेयर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 30000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 83,
+            "en": "Post Hole Digger",
+            "hi": "पोस्ट होल डीगर",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 19000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 15000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 111,
+            "en": "Pump Set(Electric) Up to 10 HP",
+            "hi": "पम्पसेट अधिकतम 10 एच.पी. तक (इलेक्ट्रीक)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 10000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 8000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 132,
+            "en": "Chaff Cutter(Manual)-2 Roller,Non-Shuking Type",
+            "hi": "चैफ कटर (मैनुअल) - 2 राॅलर, नन-शकिंग टाईप",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 4500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 3000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 133,
+            "en": "Chaff Cutter(Mannual Heavy Duty)-3 Roller, Shuking Type",
+            "hi": "चैफ कटर (हैवी ड्युटी मैनुअल) - 3 राॅलर, शकिंग टाईप",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 5000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 4000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 199,
+            "en": "Chaff Cutter(Electric motor operated above 3-5HP)",
+            "hi": "चैफ कटर (विद्युत मोटर 3 से 5 एच॰पी॰ उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 21000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 18000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 145,
+            "en": "Chaff Cutter-Tractor PTO Operated(35 HP & Above)",
+            "hi": "चैफ कटर 35 बी॰एच॰पी॰ से उपर ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 50000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 40000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 226,
+            "en": "Power Maize Thresher (Above 35 BHP Tractor Operated)",
+            "hi": "पावर मेज थ्रेसर(35 बी॰एच॰पी॰ से उपर टैªक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 32000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 227,
+            "en": "Maize Dehusker-cum-Sheller (Above 35 BHP Tractor Operated)",
+            "hi": "मेज डिहस्कर-कम-सेलर (35 बी॰एच॰पी॰ से उपर टैªक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 32000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 235,
+            "en": "Maize Thresher (Driven by Tractor 20-35 BHP)",
+            "hi": "मेज थ्रेसर (20-35 बी॰एच॰पी॰ ट्रैक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 35000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 28000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 252,
+            "en": "Hand tool okra for harvesting",
+            "hi": "हैंड टूल ओकरा हार्वेस्टींग के लिए",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 175
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 140
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 234,
+            "en": "Metal Storage Bin (Dhatu Kothila) 5Qtn.,Wt. 22kg",
+            "hi": "मेटल स्टोरेज बिन क्षमता 5 क्विंटल (शीट गेज-24)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 2000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 1600
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 224,
+            "en": "Power weeder (2-5 BHP)",
+            "hi": "पावर वीडर 2-5 बी॰एच॰पी॰ तक",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 30000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 24000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 225,
+            "en": "Power weeder (Above 5 BHP)",
+            "hi": "पावर वीडर 5 बी॰एच॰पी॰ से उपर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 32000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 172,
+            "en": "Thresher(Driven by Engine/Electric motor above 5 BHP)",
+            "hi": "थ्रेसर 5 बी0एच0पी0 से उपर इंजन /विद्युत मोटर चालित एवं 35 बी0एच0पी0 से उपर ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 165,
+            "en": "Thresher(Driven by Tractor above 35 BHP)",
+            "hi": "थ्रेसर 35 बी0एच0पी0 से उपर ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 175,
+            "en": "Multi Crop Thresher(Driven by Engine/Electric motor above 5 BHP)",
+            "hi": "मल्टीक्राॅप थ्रेसर 5 बी0एच0पी0 से उपर इंजन एवं विद्युत मोटर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 167,
+            "en": "Multi Crop Thresher(Driven by Tractor above 35 BHP)",
+            "hi": "मल्टीक्राॅप थ्रेसर 35 बी0एच0पी0 से उपर ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 178,
+            "en": "Paddy Thresher(Driven by Engine/Electric motor above 5 BHP)",
+            "hi": "पैडी थ्रेसर 5 बी0एच0पी0 से उपर इंजन एवं विद्युत मोटर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 162,
+            "en": "Paddy Thresher(Driven by Tractor above 35 BHP)",
+            "hi": "पैडी थ्रेसर 35 बी0एच0पी0 से उपर ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 100000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 80000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 257,
+            "en": "Electric Weeder (above 1100 watt.)",
+            "hi": "इलेक्ट्रीक वीडर (1100 वाट से उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 62500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 50000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 258,
+            "en": "Self-Propelled Power Paddy Weeder",
+            "hi": "सेल्फ प्रोपेल्ड पावर पैडी वीडर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 37500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 30000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 70,
+            "en": "Makhana Popping Machine",
+            "hi": "मखाना पाॅपिंग मशीन",
+            "validation": {
+                "type": "text",
+                "percentage": 80,
+                "maxAmount": 160000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 70,
+                            "maxAmount": 140000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 151,
+            "en": "Mini Rubber Rice Mill(Above 4 Q/hr Output Capacity)-Tractor operated",
+            "hi": "मिनी रबर राईस मिल (4 क्विंटल प्रति घंटे से उपर क्षमता वाला - ट्रैक्टर चालित)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 75000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 60000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 48,
+            "en": "Mini Dal Mill",
+            "hi": "मिनी दाल मिल",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 35000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 136,
+            "en": "Mini Oil Mill",
+            "hi": "आॅयल मिल",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 40000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 35000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 190,
+            "en": "Rice Mill (Electric motor operated 3 HP & above)",
+            "hi": "राईस मिल (विद्युत मोटर चालित-3 एच॰पी॰ एवं उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 24000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 21000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 23,
+            "en": "ChainSawForPruning",
+            "hi": "चेन शाॅ (प्रूनिंग के लिए)",
+            "validation": {
+                "type": "text",
+                "percentage": 60,
+                "maxAmount": 15000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 50,
+                            "maxAmount": 10000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 215,
+            "en": "Flour Mill(Electric motor operated 3 HP & above)",
+            "hi": "फ्लोर मिल विद्युत मोटर चालित (3 एच॰पी॰ एवं उपर)",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 12000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 9600
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 216,
+            "en": "Hand Cranked Improved Chakki Machine",
+            "hi": "हैंड क्रैंक्ड इम्प्रूभ्ड चक्की मशीन",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 10000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 8000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 251,
+            "en": "Electric Mortar and Pestle(Electric Okhali) 1 HP Electric Motor Operated",
+            "hi": "इलेक्ट्रीक मोर्टार एवं पेस्टल  (इलेक्ट्रीक ओखली) 1 एच॰पी॰ इलेक्ट्रीक मोटर से चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 32500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 26000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 248,
+            "en": "Tea pluckers engine operated (One Man Operated) working width min-500 mm",
+            "hi": "टी प्लकर इंजिन चालित (एक आदमी के लिए) वर्किंग विथ मिनिमम 500 मिली मीटर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 10000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 8000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 249,
+            "en": "Tea pluckers engine operated (Two Man Operated) working width min-1200 mm",
+            "hi": "टी प्लकर इंजिन चालित (दो आदमी के लिए) वर्किंग विथ मिनिमम 1200 मिली मीटर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 50000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 40000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 256,
+            "en": "Rice Mill –cum- Pulverizer",
+            "hi": "राईस मिल-कम-पल्वेराईजर",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 32500
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 26000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        },
+        {
+            "id": 259,
+            "en": "Mini Rice Mill (Huller 500 kg/hr) Tractor Operated",
+            "hi": "मिनी राईस मिल (हलर 500 किलो/घंटा) ट्रैक्टर चालित",
+            "validation": {
+                "type": "text",
+                "percentage": 50,
+                "maxAmount": 65000
+            },
+            "dependent": {
+                "list": [
+                    {
+                        "name": "General",
+                        "validation": {
+                            "type": "text",
+                            "percentage": 40,
+                            "maxAmount": 52000
+                        }
+                    }
+                ],
+                "formName": "appliedComponents",
+                "fieldName": "farmerPartName"
+            }
+        }
+    ]
+}

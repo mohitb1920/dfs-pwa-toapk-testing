@@ -1,0 +1,40 @@
+.icon-button-class {
+  bottom: 0;
+  position: absolute !important;
+  transform: translateY(-50%);
+  color: rgba(92, 100, 96, 1) !important;
+  background-color: rgba(215, 222, 218, 1) !important;
+}
+.news-section-twitter-card {
+  height: 374px;
+  box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.2);
+  margin-bottom: 5px;
+  padding: 0;
+  border-radius: 12px;
+}
+.icon-pre-button {
+  bottom: 0;
+  color: rgba(92, 100, 96, 1) !important;
+  background-color: rgba(215, 222, 218, 1) !important;
+}
+.bottom-action-style {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-inline: 16px;
+  height: 40px;
+}
+
+.dots-style {
+  /* position: absolute; */
+  /* bottom: 10%; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.dot-index-style {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-inline: 4px;
+}

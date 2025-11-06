@@ -1,0 +1,83 @@
+{
+  "personalDetails": {
+    "type": "object",
+    "title": "PERSONAL_DETAILS",
+    "properties": {
+      "farmerName": {
+        "type": "text",
+        "title": "FARMER_NAME",
+        "enabled": true,
+        "order": 1,
+        "validation": {
+          "required": true,
+          "minLength": 2,
+          "errorMessages": {
+            "required": "REQUIRED_FARMER_NAME",
+            "minLength": "FARMER_NAME_MINLENGTH"
+          }
+        }
+      },
+      "farmerMobileNumber": {
+        "type": "number",
+        "title": "MOBILE_NUMBER",
+        "enabled": true,
+        "order": 6,
+        "validation": {
+          "required": true,
+          "maxLength": 10,
+          "minLength": 10,
+          "errorMessages": {
+            "required": "REQUIRED_MOBILE_NUMBER",
+            "maxLength": "MOBILE_MAXLENGTH",
+            "minLength": "MOBILE_MINLENGTH"
+          }
+        }
+      }
+    }
+  },
+  "locationDetails": {
+    "type": "object",
+    "title": "LOCATION_DETAILS",
+    "properties": {
+      "district": {
+        "type": "select",
+        "title": "DISTRICT",
+        "order": 10,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_DISTRICT"
+          }
+        }
+      },
+      "block": {
+        "type": "select",
+        "title": "BLOCK",
+        "order": 11,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_BLOCK"
+          }
+        }
+      },
+      "panchayat": {
+        "type": "select",
+        "title": "VILLAGE_PANCHAYAT",
+        "order": 12,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_PANCHAYAT"
+          }
+        }
+      }
+    }
+  }
+}

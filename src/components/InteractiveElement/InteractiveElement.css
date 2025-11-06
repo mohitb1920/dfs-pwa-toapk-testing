@@ -1,0 +1,12 @@
+.interactive-element {
+    
+}
+
+.interactive-element:hover {
+    background-color: transparent;
+}
+
+.interactive-element:focus-visible {
+    outline: -webkit-focus-ring-color auto 1px;
+    outline-offset: 1px;
+}

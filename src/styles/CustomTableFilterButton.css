@@ -1,0 +1,38 @@
+.custom-table-filter {
+  border: 1px solid #d0d5dd;
+  border-radius: 8px;
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  background-color: #f0f5f2;
+  cursor: pointer;
+}
+
+.dark-theme .custom-table-filter {
+  background-color: transparent;
+}
+.custom-table-filter-active {
+  background-color: #85bc31 !important;
+}
+
+.filter-icon-active {
+  color: #1c211e !important;
+}
+
+.table-filter-text {
+  font-family: Inter !important;
+  font-weight: 500 !important;
+  line-height: 20px !important;
+  color: #344054;
+}
+
+.dark-theme .table-filter-text {
+  color: #fff;
+}
+.active-table-filter-text {
+  color: #1c211e;
+}
+.dark-theme .active-table-filter-text {
+  color: #000;
+}

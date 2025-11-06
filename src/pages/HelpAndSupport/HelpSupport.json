@@ -1,0 +1,171 @@
+{
+    "help": [
+        {
+            "id": 1,
+            "title": "help.SpeaktoDOAOfficials",
+            "image": "dao.svg",
+            "image-detail": "dao-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "HelpLine",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "help.CallCenters",
+            "image": "callcenter.svg",
+            "image-detail": "callcenter-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "HelpLine",
+            "filters": []
+        },
+        {
+            "id": 3,
+            "title": "help.DBTIDRelatedServices",
+            "image": "dbtIdRelated.svg",
+            "image-detail": "dbtIdRelated-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "RelevantServices",
+            "filters": []
+        },
+        {
+            "id": 4,
+            "title": "help.OtherRelevantServices",
+            "image": "otherService.svg",
+            "image-detail": "otherService-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "RelevantServices",
+            "filters": []
+        },
+        {
+            "id": 5,
+            "title": "help.MandiAnalysts",
+            "image": "mandiAnalysts.svg",
+            "image-detail": "mandiAnalysts-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "MandiAnalyst",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "help.CertificationInspectors",
+            "image": "certificationInspector.svg",
+            "image-detail": "certificationInspector-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "BosscaInspectors",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "help.SAO",
+            "image": "sao.svg",
+            "image-detail": "sao-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "SaoUsers",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "help.AgricultureCoordinator",
+            "image": "agriconrdinator.svg",
+            "image-detail": "agriconrdinator-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "AgriCoordinator",
+            "filters": [
+                "district",
+                "block",
+                "panchayat"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "help.KisanSalahkar",
+            "image": "kisanSalakhar.svg",
+            "image-detail": "kisanSalakhar-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "KisanSalahkar",
+            "filters": [
+                "district",
+                "block",
+                "panchayat"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "help.NominatedACforMarketNodes",
+            "image": "NominatedAc.svg",
+            "image-detail": "NominatedAc-detail.svg",
+            "dataFrom": "mdms",
+            "redirectTo": "",
+            "masterName": "BavasAgriCoordinator",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "help.AssistantDirectorofPlantProtection",
+            "image": "AssistentPP.svg",
+            "image-detail": "AssistentPP-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "AssistantDirectorPP",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "help.EthanolIndustries",
+            "image": "Ethanol.svg",
+            "image-detail": "Ethanol-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "EthanolIndustries",
+            "filters": [
+                "district"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "help.JaivikFPOs",
+            "image": "FPO.svg",
+            "image-detail": "FPO-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "JaivikFPO",
+            "filters": [
+                "district",
+                "block"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "help.Foodprocessing",
+            "image": "FoodProcessing.svg",
+            "image-detail": "FoodProcessing-detail.svg",
+            "dataFrom": "",
+            "redirectTo": "",
+            "masterName": "foodProcessing",
+            "filters": [
+                "district"
+            ]
+        }
+    ]
+}

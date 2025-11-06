@@ -1,0 +1,52 @@
+.confirmation-dialog-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 36px;
+  position: relative;
+  width: 465px;
+  background: #ffffff;
+  border: 1px solid #dee2e6;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 20px 20px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+}
+
+.dark-theme .confirmation-dialog-card {
+  background: #1A1D21;
+}
+.confirmation-dialog-text-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 24px 0px;
+  width: 385px;
+}
+
+.confirmation-dialog-text-main {
+  font-weight: 600 !important;
+  text-align: center;
+  letter-spacing: -0.02em;
+  padding-bottom: 8px;
+}
+
+.confirmation-dialog-text-sub {
+  height: 22px;
+  text-align: center;
+}
+
+@media (max-width: 640px) {
+  .confirmation-dialog-card {
+    width: 100%;
+    padding: 12px !important;
+  }
+  .confirmation-dialog-text-box {
+    width: 100%;
+    margin-bottom: 8px;
+  }
+
+  .confirmation-dialog-root .MuiDialog-paper {
+    margin: 8px;
+  }
+}

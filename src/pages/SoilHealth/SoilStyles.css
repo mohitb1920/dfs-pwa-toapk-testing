@@ -1,0 +1,47 @@
+.key-value-keyStyle {
+  color: rgba(92, 100, 96, 1);
+}
+.key-value-valueStyle-mobile {
+  font-weight: 500 !important;
+}
+.key-value-valueStyle {
+  font-weight: 600 !important;
+}
+.dark-theme .key-value-keyStyle {
+  color: inherit;
+}
+.text-card {
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.value-card-details {
+  font-size: 1rem;
+  color: rgba(121, 116, 126, 1);
+}
+.dark-theme .value-card-details {
+  color: inherit;
+}
+.soil-Grid {
+  display: grid;
+  gap: 16px;
+  column-gap: 8px;
+  padding: 0 30px;
+}
+
+@media (min-width: 300px) {
+  .soil-Grid {
+    padding: 0px !important;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+  }
+}
+
+@media (min-width: 700px) {
+  .soil-Grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,26 @@
+.header-screen-reader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 28px;
+  padding-bottom: 40px;
+}
+
+.text-box-screen-reader {
+  padding-bottom: 56px;
+}
+
+@media (max-width: 1000px) {
+  .header-screen-reader {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .header-screen-reader {
+    padding-block: 16px;
+  }
+}

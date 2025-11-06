@@ -1,0 +1,326 @@
+.complaint-details-container {
+@apply pb-20 w-[95%] sm:w-11/12 m-auto;
+    max-width: 1200px;
+}
+
+.details-page-header {
+    font-weight: 700 !important;
+}
+
+.complaint-number {
+    font-family: Inter !important;
+    font-weight: 700 !important;
+    padding-bottom: 16px;
+    letter-spacing: -0.02em !important;
+    color: rgba(26, 92, 75, 1);
+}
+
+.dark-theme .complaint-number {
+    color: #85BC31;
+}
+
+.farmer-box-header {
+font-family: Poppins, sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    line-height: 25.78px !important;
+    text-align: left;
+    color: #192739f0;
+}
+
+.farmer-grid {
+    width: 98% !important;
+    margin: auto !important;
+    padding-bottom: 10px;
+}
+
+.farmer-key {
+    font-family: Poppins, sans-serif;
+    font-size: 14.5px !important;
+    font-weight: 600 !important;
+    width: 50%;
+    margin-bottom: 0px !important;
+}
+
+.farmer-sub-key {
+    font-family: Poppins, sans-serif;
+    font-size: 13.5px !important;
+    width: 50%;
+}
+.farmer-value {
+font-family: Poppins, sans-serif;
+    font-size: 13px !important;
+}
+
+.complaint-categories-grid {
+    background-color: #FFFFFF;
+    margin-left: 0px !important;
+    width: 100% !important;
+    border-radius: 12px;
+    padding: 8px 32px 32px 8px !important;
+    margin-top: 0px !important;
+}
+.dark-theme .complaint-categories-grid {
+    background-color: #1a1d21;
+}
+.details-box-border {
+    @apply border border-primary rounded-lg bg-white;
+}
+
+.dark-theme .details-box-border {
+    background: #222529;
+}
+.attachment-details {
+    @apply p-[8px] mb-2 flex items-center justify-between rounded-lg cursor-pointer;
+    box-shadow: 0px 0px 2px 0px #00000040;
+    width: 310px;
+}
+
+.dark-theme .attachment-details {
+    background: #24272B;
+}
+.attachment-logo {
+    height: 30px !important;
+    width: 30px !important;
+    border-radius: 0 !important;
+    margin-right: 5px;
+}
+
+.audio-wave {
+    @apply h-12 w-12 rounded-lg mr-3 !important
+}
+
+.attachment-size {
+    font-family: Poppins, sans-serif !important;
+    font-size: 14px !important;
+    color: #B3B3B3;
+}
+
+.audio-details {
+    @apply p-3 flex items-center cursor-pointer rounded-lg;
+    box-shadow: 0px 0px 4px 0px #00000040;
+}
+
+.audio-player {
+    @apply flex items-center rounded-full px-3 py-2 w-full;
+    background: #F1F3F4;
+}
+
+.media-upload-note {
+    @apply font-poppins text-sm !important;
+    color: #6D6D6D;
+}
+
+.category-timeline-container {
+    padding: 40px;
+    background-color: #F0F5F2;
+    border-radius: 12px;
+    margin-top: 40px;
+}
+
+.dark-theme .category-timeline-container {
+    background-color: #222529;
+}
+.dropzone {
+    padding: 32px;
+        border-radius: 8px;
+        border: 1px solid var(--Neutral-neutral-400, #A2ABA6)
+    }
+    
+    .dropzone-drag-drop-text {
+        color: #5C6460 !important;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: Inter;
+        padding-top: 8px;
+        padding-bottom: 16px;
+}
+
+.dark-theme .dropzone-drag-drop-text {
+    color: #E4E7E6 !important;
+}
+
+.dropzone-drag-drop-text-browse {
+    @apply text-primary font-bold underline;
+}
+
+.dark-theme .dropzone-drag-drop-text-browse {
+    color: #85BC31;
+}
+.dropzone-file-size-info-text {
+    color: #5C6460;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+}
+.dark-theme .dropzone-file-size-info-text {
+    color: #E4E7E6;
+}
+.file-upload-logo {
+    @apply rounded-none !important;
+        height: 60px !important;
+        width: auto !important;
+        margin-bottom: 8px;
+}
+
+.drag-text {
+    @apply font-poppins !important;
+}
+
+.or-text {
+    @apply font-poppins m-2 !important;
+    color: #6D6D6D !important;
+}
+
+.browse-files-button {
+    @apply rounded-full border-green-900 text-primary font-bold normal-case !important;
+}
+
+.complaint-cancel-button {
+    @apply border-secondary text-black rounded-full mr-3 ml-2 !important;
+}
+
+.compaint-respond-button {
+    @apply bg-secondary text-white rounded-full !important;
+}
+.button-rounded-full {
+    @apply rounded-full mr-3 !important
+}
+
+.reject-complaint-button {
+    @apply bg-secondary text-white rounded-full mr-3 !important;
+}
+.edit-complaint {
+    @apply text-white rounded-full bg-primary mr-3 !important
+}
+.confirmation-dialog {
+    @apply py-5 px-8 flex flex-col justify-center items-center;
+}
+
+.circular-loader {
+    height: 60px !important;
+    width: 60px !important;
+    margin: 30px !important;
+    color: #f49b0b !important;
+}
+
+.success-gif {
+    height: 120px;
+}
+.complaint-link {
+    @apply text-primary font-bold;
+    }
+
+.letter-header {
+    font-family: Inter !important;
+    font-size: 14px !important;
+}
+
+.letter-content {
+        font-family: Inter !important;
+        font-size: 14px !important;
+}
+.ticket-status-pill {
+    @apply px-4 py-1.5 rounded-md font-semibold;
+}
+
+.grm-comment-min-box {
+    @apply px-2 py-1.5 w-fit rounded-md flex cursor-pointer;
+    border: 1px solid #A5292B;
+    color: #A5292B;
+}
+
+.remarks-input-box {
+    @apply w-full relative;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none !important;
+}
+.timeline-timestamp {
+    color: #5C6460;
+    font-weight: 400 !important;
+}
+
+.dark-theme .timeline-timestamp {
+    color: #a2a9a6;
+}
+.version-history-comments {
+    font-family: Inter !important;
+    font-size: 14px !important;
+    margin-bottom: 6px !important;
+    font-weight: 500 !important;
+    overflow-wrap: break-word;
+}
+.satisfaction-highlight-text {
+    color: #ff6600;
+    font-weight: bold;
+}
+
+.step-comments-section {
+    padding: 8px;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+.details-box-border-v2 {
+    box-shadow: 0px 4px 20px 0px #0000001A;
+    padding: 32px 32px 14px 8px;
+    border-radius: 12px;
+    background: var(--Neutral-neutral-100, #FFFFFF);
+}
+
+.dark-theme .details-box-border-v2 {
+    background: #1a1d21;
+}
+.farmer-key-v2 {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 26px !important;
+    letter-spacing: -0.02em;
+    text-align: left;
+    font-family: Inter, sans-serif;
+    margin-bottom: 0px !important;
+    color: #1C211E;
+}
+
+.dark-theme .farmer-key-v2 {
+    color: #FFFFFF;
+}
+.farmer-value-v2 {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    line-height: 24px !important;
+    text-align: left;
+    font-family: Inter, sans-serif;
+}
+
+.farmer-grid-v2 {
+    margin: 0 !important;
+    padding-top: 16px;
+    padding-bottom: 2px;
+    width: 100% !important;
+}
+
+.personal-details-box-header {
+    font-family: Inter, sans-serif !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    line-height: 33.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    padding-left: 8px;
+}
+.dark-theme .personal-details-box-header {
+    color: #FFFFFF;
+}
+
+@media (max-width: 600px) {
+    .category-timeline-container {
+        padding: 16px;
+    }
+    .complaint-categories-grid {
+        padding-right: 16px !important;
+    }
+    .complaint-categories-grid-item{
+        padding-left: 8px !important;
+    }
+  }

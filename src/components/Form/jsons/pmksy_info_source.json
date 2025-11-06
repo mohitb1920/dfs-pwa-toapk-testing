@@ -1,0 +1,39 @@
+{
+    "info-source-list": [
+        {
+            "id": 1,
+            "en": "Assistant Director Horticulture",
+            "hi": "सहायक निदेशक उद्यान"
+        },
+        {
+            "id": 2,
+            "en": "Block Horticulture Officer",
+            "hi": "प्रखंड उद्यान पदाधिकारी"
+        },
+        {
+            "id": 3,
+            "en": "Agriculture Coordinator",
+            "hi": "कृषि समन्वयक"
+        },
+        {
+            "id": 4,
+            "en": "Company Representative",
+            "hi": "कम्पनी प्रतिनिधि"
+        },
+        {
+            "id": 6,
+            "en": "Kisan Salaahkar",
+            "hi": "किसान सलाहकार"
+        },
+        {
+            "id": 7,
+            "en": "Kisan Call Center",
+            "hi": "किसान कॉल सेंटर"
+        },
+        {
+            "id": 5,
+            "en": "Others",
+            "hi": "अन्य"
+        }
+    ]
+}

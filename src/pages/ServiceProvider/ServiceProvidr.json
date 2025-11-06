@@ -1,0 +1,52 @@
+[
+  {
+    "id": "allServices",
+    "label": "All Services",
+    "data": [
+      {
+        "Services": "Commodity sales through Trades/FPO",
+        "Details": "Acting as a bridge between farmers and markets, this service facilitates the sale of agricultural products, ensuring fair deals and access to wider market avenues through Traders or Farmers' Producer Organizations (FPOs).",
+        "Action": "www.djdj.com"
+      },
+      {
+        "Services": "Purchase & Repair of Agricultural equipment/Machinery",
+        "Details": "Efficiency is the heartbeat of agriculture, and this service ensures farmers have access to well-maintained equipment, empowering them to enhance productivity and streamline their operations.",
+        "Action": "www.djdj.com"
+      },
+      {
+        "Services": "Soil Testing",
+        "Details": "Every farmer knows that the soil is the soul of their farm. Soil testing services provide invaluable insights into soil health, guiding farmers on appropriate fertilization and crop management practices, ultimately optimizing yields and sustainability.",
+        "Action": "www.djdj.com"
+      },
+      {
+        "Services": "Seed Certification",
+        "Details": "Seed certification is a crucial process that ensures the quality and genetic purity of seeds used in agriculture. This involves rigorous testing and inspection at various stages of seed production, including field inspection, laboratory analysis, and final certification. Certified seeds are guaranteed to meet specific standards of germination.",
+        "Action": { "action": "Re-direct", "link": "www.djdj.com" }
+      },
+      {
+        "Services": "Input Distribution Plant Protection (Central Scheme)",
+        "Details": "State-level initiatives complement central efforts, tailoring interventions to local agricultural challenges and needs. This service ensures that farmers receive targeted support tailored to their specific region, fostering resilience in the face of regional pest and disease pressures.",
+        "Action": "www.djdj.com"
+      },
+      {
+        "Services": "Input Distribution Plant Protection (State Scheme)",
+        "Details": "Embracing cutting-edge technology, this service takes plant protection to new heights-literally. Drones equipped with precision spraying mechanisms deliver targeted pest control solutions, minimizing environmental impact and maximizing efficacy, all while reducing labour and time costs for farmers.",
+        "Action": "www.djdj.com"
+      },
+      {
+        "Services": "Pesticides spraying using drones Schemes- Plant Protection",
+        "Details": "dsafffadfsdafsafds",
+        "Action": "www.djdj.com"
+      }
+    ]
+  },
+  { "id": "soilTesting", "label": "Soil Testing", "data": [] },
+  { "id": "plantProtection", "label": "Plant Protection", "data": [] },
+  { "id": "bavasDivision", "label": "BAVAS Division", "data": [] },
+  {
+    "id": "agriEngineering",
+    "label": "Agriculture Engineering",
+    "data": []
+  },
+  { "id": "basoca", "label": "BASOCA", "data": [] }
+]

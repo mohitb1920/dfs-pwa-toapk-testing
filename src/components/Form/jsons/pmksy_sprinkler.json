@@ -1,0 +1,31 @@
+{
+    "sprinkler-list": [
+        {
+            "id": 1,
+            "en": "Drip",
+            "hi": "ड्रिप"
+        },
+        {
+            "id": 2,
+            "en": "Mini Sprinkler",
+            "hi": "मिनी स्प्रिंकलर"
+        },
+        {
+            "id": 3,
+            "en": "Micro Sprinkler",
+            "hi": "माइक्रो स्प्रिंकलर"
+        },
+        {
+            "id": 5,
+            "en": "Sprinkler",
+            "hi": "स्प्रिंकलर",
+            "type": [
+                {
+                    "id": 1,
+                    "en": "Type of Sprinkler (Portable Sprinkler)",
+                    "hi": "स्प्रिंकलर का प्रकार (पोर्टेबल स्प्रिंकलर)"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+.faq-section {
+  margin-inline: auto !important;
+  margin-top: 4;
+}
+
+.faq-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+  padding: 0 16px;
+}
+
+.faq-header-left {
+  display: flex;
+}
+
+.faq-icon {
+  display: flex;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.faq-title {
+  font-weight: 700 !important;
+  /* color: rgba(28, 33, 30, 1); */
+  font-size: 2rem;
+}
+.QuestionAnsBox {
+  border-radius: 50%;
+  margin-right: 5px;
+  padding: 6px;
+  font-size: 24px;
+  text-align: center;
+  height: 32px;
+  width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+}
+.light-theme .QuestionBox {
+  background-color: rgba(26, 92, 75, 1);
+  color: rgba(219, 239, 188, 1);
+}
+.dark-theme .QuestionBox {
+  background-color: rgba(133, 188, 49, 1);
+  color: rgba(28, 33, 30, 1);
+}
+.light-theme .AnswerBox {
+  background-color: rgba(219, 239, 188, 1);
+  color: rgba(26, 92, 75, 1);
+}
+.dark-theme .AnswerBox {
+  background-color: rgba(133, 188, 49, 1);
+  color: rgba(28, 33, 30, 1);
+}
+.faq-view-all-btn {
+  color: #515456;
+  border-color: #515456;
+}
+
+.faq-accordion-summary {
+  display: flex;
+  align-items: start;
+}
+
+.faq-question {
+  font-weight: normal;
+  text-align: start;
+}
+
+.faq-question.bold {
+  font-weight: bold;
+}
+
+.faq-icon-question {
+  display: flex;
+  align-items: start;
+  margin-right: 16px;
+}
+
+.faq-answer {
+  display: flex;
+  align-items: start;
+  margin-bottom: 16px;
+}
+
+.faq-answer-icon {
+  margin-right: 8px;
+}
+
+.custom-accordion-faq {
+  border: none !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid rgba(215, 222, 218, 1);
+}
+.dark-theme .custom-accordion-faq {
+  border-bottom: 1px solid rgba(215, 222, 218, 1) !important;
+  background-color: rgba(26, 29, 33, 1) !important;
+  background-image: none !important;
+}
+
+@media (max-width: 640px) {
+  .faq-header {
+    display: block;
+    margin-bottom: 20px;
+    padding: 0px;
+  }
+
+  .faqs-view-all-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+.faq-accordion-summary {
+  padding-inline: 0px !important;
+}
+
+.QuestionAnsBox {
+  height: 24px;
+  width: 24px;
+  font-size: 16px;
+}
+}

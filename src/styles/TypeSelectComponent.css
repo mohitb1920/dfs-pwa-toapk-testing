@@ -1,0 +1,57 @@
+/* AssetCard.module.css */
+
+.type-select-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0;
+  width: 200px;
+  height: 200px;
+  background: #ffffff;
+  border: 1px solid #d7deda;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.type-select-option-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 8px 8px 16px;
+  gap: 10px;
+  width: 100%;
+  height: 40px;
+}
+
+.type-select-option-text {
+  height: 24px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+  color: #1c211e;
+}
+
+.type-select-option-button {
+  width: 24px;
+  height: 24px;
+}
+
+.dark-theme .type-select-option-button {
+  color: #1A5C4B !important;
+}
+.type-select-option-img {
+  margin: 0 auto;
+  width: 100%;
+  overflow: hidden; /* Hide overflow if image is larger than the container */
+}
+
+.type-select-option-img img {
+  max-width: 100%; /* Scale the image to fit the container width */
+  max-height: 100%; /* Scale the image to fit the container height */
+  object-fit: contain; /* Preserve aspect ratio, fit within container */
+}

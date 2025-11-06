@@ -1,0 +1,80 @@
+{
+    "screen-reader-data": {
+        "DataText": {
+            "hi": "बिहार कृषि वेबसाइट वर्ल्ड वाइड वेब कंसॉर्टियम (W3C) वेब कंटेंट एक्सेसिबिलिटी गाइडलाइंस (WCAG) 2.0 लेवल AA के साथ अनुपालित है। यह दृष्टिहीन व्यक्तियों को सहायक तकनीकों जैसे कि स्क्रीन रीडर का उपयोग करके वेबसाइट तक पहुँच प्रदान करेगा। वेबसाइट की जानकारी विभिन्न स्क्रीन रीडर्स के साथ सुलभ है, जैसे कि जेएडब्ल्यूएस, एनवीडीए, सैफा, सुपरनोवा, और विंडो-आइज़।",
+            "en": "The Bihar Krishi website complies with World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.0 level AA. This will enable people with visual impairments access the website using assistive technologies, such as screen readers. The information of the website is accessible with different screen readers, such as JAWS,NVDA, SAFA, Supernova and Window-Eyes."
+        },
+        "p2": {
+            "hi": "नीचे दी गई तालिका में विभिन्न स्क्रीन रीडर्स के बारे में जानकारी दी गई है:",
+            "en": "Following table lists the information about different screen readers:"
+        },
+        "WebsiteData": [
+            {
+                "name": {
+                    "hi": "नॉन विजुअल डेस्कटॉप एक्सेस (NVDA)",
+                    "en": "Non Visual Desktop Access (NVDA)"
+                },
+                "url": "http://www.nvda-project.org/",
+                "type": {
+                    "hi": "फ्री",
+                    "en": "Free"
+                }
+            },
+            {
+                "name": {
+                    "hi": "सिस्टम एक्सेस टू गो",
+                    "en": "System Access To Go"
+                },
+                "url": "http://www.satogo.com/",
+                "type": {
+                    "hi": "फ्री",
+                    "en": "Free"
+                }
+            },
+            {
+                "name": {
+                    "hi": "हैल",
+                    "en": "Hal"
+                },
+                "url": "http://www.yourdolphin.co.uk/productdetail.asp?id=5",
+                "type": {
+                    "hi": "कमर्शियल",
+                    "en": "Commercial"
+                }
+            },
+            {
+                "name": {
+                    "hi": "जॉज",
+                    "en": "JAWS"
+                },
+                "url": "http://www.freedomscientific.com/products/software/jaws/",
+                "type": {
+                    "hi": "कमर्शियल",
+                    "en": "Commercial"
+                }
+            },
+            {
+                "name": {
+                    "hi": "सुपरनोवा",
+                    "en": "Supernova"
+                },
+                "url": "http://www.yourdolphin.co.uk/productdetail.asp?id=1",
+                "type": {
+                    "hi": "कमर्शियल",
+                    "en": "Commercial"
+                }
+            },
+            {
+                "name": {
+                    "hi": "विंडो-आइज़",
+                    "en": "Window-Eyes"
+                },
+                "url": "http://www.gwmicro.com/Window-Eyes/",
+                "type": {
+                    "hi": "कमर्शियल",
+                    "en": "Commercial"
+                }
+            }
+        ]
+    }
+}

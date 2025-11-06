@@ -1,0 +1,188 @@
+.area-details {
+  display: flex;
+  justify-content: flex-end;
+}
+.area-text {
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-right: 15px;
+}
+.header-cards-container {
+  display: flex;
+  justify-content: center;
+}
+.header-card {
+  width: 40%;
+  min-height: 125px;
+  border-radius: 20px;
+  border: 1px solid var(--light-border);
+  margin: 10px 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../../public/assets/HomePAgeHeaders.png");
+  background-repeat: no-repeat;
+  background-color: var(--light-yellow);
+  background-position: right bottom;
+}
+.card-header-text {
+  font-family: Inter !important;
+  font-size: 26px !important;
+  font-weight: 600 !important;
+  line-height: 42px !important;
+  letter-spacing: 0em !important;
+  text-align: center;
+}
+.card-count {
+  font-family: Inter !important;
+  font-size: 36px !important;
+  font-weight: 700 !important;
+  line-height: 44px !important;
+  letter-spacing: 0em !important;
+  text-align: center !important;
+  color: var(--primary-green);
+}
+.main-cards-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.menu-row {
+  display: flex;
+  justify-content: space-around;
+}
+.left-card {
+  justify-content: flex-start;
+}
+.center-card {
+  justify-content: center;
+}
+.right-card {
+  justify-content: flex-end;
+}
+.main-card {
+  width: 320px;
+  height: 207px;
+  border: 1px solid var(--primary-green);
+  display: flex;
+  align-items: center;
+  background-image: url("../../public/assets/cardbg.png");
+  background-size: cover;
+  background-position: center bottom;
+  cursor: pointer;
+  transition: transform 0.1s ease-in-out;
+  margin-bottom: 24px;
+}
+.main-card:hover {
+  transform: scale(1.02);
+}
+
+.credit {
+  background-image: url("../../public/assets/credit.png");
+}
+.left-badge {
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.center-badge {
+  border-radius: 40px;
+  justify-content: center;
+}
+.right-badge {
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  justify-content: flex-end;
+}
+.card-badge {
+  width: 203px;
+  height: 76px;
+  padding: 17px, 32px, 17px, 12px;
+  background: var(--primary-green);
+  display: flex;
+  align-items: center;
+}
+.badge-text {
+  font-family: Poppins !important;
+  font-size: 28px !important;
+  font-weight: 600 !important;
+  line-height: 42px !important;
+  letter-spacing: 0em !important;
+  color: var(--full-white);
+}
+.left {
+  margin-left: 10px !important;
+}
+.right {
+  justify-content: flex-end;
+  margin-right: 10px !important;
+}
+.app-inner-body {
+  min-height: 80vh;
+  margin: 20px 40px;
+  background-color: var(--full-white);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: "column";
+  justify-content: "flex-end";
+  align-items: "flex-start";
+  gap: 10;
+  display: "inline-flex";
+}
+
+.image-courosal-dots-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 6px;
+  gap: 8px;
+  border-radius: 100px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
+.mobile-scheme-card {
+  background-color: #F5F3F3;
+  padding: 12px 6px;
+  width: 50%;
+  border-radius: 14px;
+}
+
+.dark-theme .mobile-scheme-card {
+  background-color: rgba(34, 37, 41, 1);
+}
+@media screen and (max-width: 768px) {
+  .header-card {
+    width: 80% !important;
+  }
+  .header-cards-container {
+    flex-wrap: wrap !important;
+  }
+  .menu-row {
+    flex-wrap: wrap !important;
+  }
+  .app-inner-body {
+    margin: 20px !important;
+  }
+  .right-card {
+    justify-content: center !important;
+  }
+  .left-card {
+    justify-content: center !important;
+  }
+  .left-badge {
+    border-radius: 40px !important;
+    justify-content: center !important;
+  }
+  .center-badge {
+    border-radius: 40px;
+    justify-content: center !important;
+  }
+  .right-badge {
+    border-radius: 40px !important;
+    justify-content: center !important;
+  }
+}

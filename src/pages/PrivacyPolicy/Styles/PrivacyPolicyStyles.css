@@ -1,0 +1,12 @@
+.pp_contentBox{
+    border: solid 1px #D7DEDA;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 40px;
+}
+.pp_bodycontainer{
+    width: 100%;
+}
+.overrideMaxWidth {
+    max-width: 100% !important;
+}

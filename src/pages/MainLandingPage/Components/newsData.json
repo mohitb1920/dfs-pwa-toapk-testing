@@ -1,0 +1,25 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "title": "News Title 1",
+            "date": "September 18, 2024 7:34 PM",
+            "description": "Agriculture: बिहार में मक्का अनुसंधान केंद्र को आधुनिक बनाएगा केंद्र",
+            "link": "https://www.prabhatkhabar.com/national/agriculture-bihar-to-get-fund-from-centre"
+        },
+        {
+            "id": 2,
+            "title": "News Title 2",
+            "date": "September 20, 2024, 12:18 AM",
+            "description": "बिहार सरकार की नई पहल, किसानों को लाइट ट्रैप मशीन में मिलेगी 75 फीसदी सब्सिडी",
+            "link": "https://hindi.news18.com/news/agriculture/this-machine-will-get-rid-of-the-insects-in-the-crop-the-machine-is-available-at-75-percent-local18-8703116.html"
+        },
+        {
+            "id": 3,
+            "title": "News Title 2",
+            "date": "September 25, 2024, 11:29 AM",
+            "description": "एक दिन में 2000 तक अंडे देती है ये मधुमक्खी, इसके पालन से हो जाएंगे मालामाल! सरकार से भी मिलेगी सब्सिडी",
+            "link": "https://hindi.news18.com/news/agriculture/bee-lays-up-to-2000-eggs-in-a-day-you-will-become-rich-by-rearing-it-local18-8718044.html"
+        }
+    ]
+}

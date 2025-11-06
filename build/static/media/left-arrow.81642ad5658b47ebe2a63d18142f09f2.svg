@@ -1,0 +1,13 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_4_35403" fill="white">
+<path d="M0 6C0 2.68629 2.68629 0 6 0H34C37.3137 0 40 2.68629 40 6V34C40 37.3137 37.3137 40 34 40H6C2.68629 40 0 37.3137 0 34V6Z"/>
+</mask>
+<path d="M0 6C0 2.68629 2.68629 0 6 0H34C37.3137 0 40 2.68629 40 6V34C40 37.3137 37.3137 40 34 40H6C2.68629 40 0 37.3137 0 34V6Z" fill="white"/>
+<path d="M6 1H34V-1H6V1ZM39 6V34H41V6H39ZM34 39H6V41H34V39ZM1 34V6H-1V34H1ZM6 39C3.23858 39 1 36.7614 1 34H-1C-1 37.866 2.13401 41 6 41V39ZM39 34C39 36.7614 36.7614 39 34 39V41C37.866 41 41 37.866 41 34H39ZM34 1C36.7614 1 39 3.23858 39 6H41C41 2.13401 37.866 -1 34 -1V1ZM6 -1C2.13401 -1 -1 2.13401 -1 6H1C1 3.23858 3.23858 1 6 1V-1Z" fill="#A2ABA6" mask="url(#path-1-inside-1_4_35403)"/>
+<mask id="mask0_4_35403" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="8" y="8" width="24" height="24">
+<rect x="8" y="8" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_4_35403)">
+<path d="M24 30L14 20L24 10L25.775 11.775L17.55 20L25.775 28.225L24 30Z" fill="#1C211E"/>
+</g>
+</svg>

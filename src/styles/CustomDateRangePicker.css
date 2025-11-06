@@ -1,0 +1,146 @@
+.custom-date-picker-wrap {
+  position: relative;
+  width: 280px;
+}
+
+.custom-date-picker-wrap .select {
+  position: relative;
+  display: block;
+  height: 2.5rem;
+  border: 1px solid #a2aba6;
+  background-color: #ffffff;
+  border-radius: 4px;
+}
+
+.custom-date-picker-wrap .select:hover {
+  border: 1px solid #2f6a31;
+}
+
+.dark-theme .custom-date-picker-wrap .select:hover {
+  border: 1px solid #85BC31;
+}
+.dark-theme .custom-date-picker-wrap .select {
+  background-color: #1a1d21;
+}
+
+.custom-date-picker-wrap .select input[type="text"] {
+  width: calc(100% - 32px);
+  position: absolute;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  color: #111827;
+  font-size: 1rem;
+  padding-left: 0.5rem;
+  border-radius: 4px;
+}
+
+.dark-theme .custom-date-picker-wrap .select input[type="text"] {
+  background-color: #1a1d21;
+  color: #ffffff;
+}
+
+.custom-date-picker-wrap .select p {
+  padding-top: 9px;
+  font-size: 1rem;
+  color: #111827;
+  float: left;
+  margin-left: 0.5rem;
+}
+
+.custom-date-picker-wrap .select img {
+  float: right;
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+  cursor: pointer;
+}
+
+.dark-theme .custom-date-picker-wrap .select img {
+  filter: invert(1);
+}
+
+.custom-date-picker-wrap .select svg {
+  position: absolute;
+  right: 0;
+  float: right;
+  height: 1.5rem;
+  width: 1.5rem;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.custom-date-picker-wrap .select-active {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.custom-date-picker-wrap .options-card {
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0 3px 14px 2px rgba(0, 0, 0, 0.12), 0 5px 5px -3px rgba(0, 0, 0, 0.2);
+  max-height: 400px;
+  overflow: auto;
+  position: absolute;
+  z-index: 20;
+  margin-top: 0.25rem;
+  max-width: 100%;
+}
+
+.custom-date-picker-wrap--elipses {
+  width: 85% !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .custom-date-picker-wrap {
+    width: 100%;
+  }
+}
+
+.dark-theme .rdrStaticRange {
+  background: #1a1d21;
+}
+
+.dark-theme .rdrStaticRangeLabel:hover {
+  background: #383f47 !important;
+}
+.dark-theme .rdrDateDisplayWrapper {
+  background: #1a1d21;
+}
+
+.dark-theme .rdrDateDisplayItem {
+  background: rgba(34, 37, 41, 1);
+}
+
+.dark-theme .rdrCalendarWrapper {
+  background: #1a1d21 ;
+}
+
+.dark-theme .rdrDefinedRangesWrapper {
+  background: #1a1d21;
+}
+
+.dark-theme .rdrDayDisabled {
+  background-color: #22262b;
+}
+.dark-theme .rdrDayDisabled .rdrDayNumber span {
+  color: #999999;
+}
+.dark-theme .rdrDayNumber span {
+  color: #ffffff;
+}
+
+.dark-theme .rdrMonthAndYearPickers select  {
+  color: #ffffff;
+}
+
+.dark-theme .rdrMonthAndYearPickers select option {
+  color: #ffffff;
+  background: #1a1d21;
+}

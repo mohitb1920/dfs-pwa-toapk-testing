@@ -1,0 +1,10 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import '../src/styles/LandingPage.css';
+@import '../src/styles/ComplaintsInbox.css';
+@import '../src/styles/ComplaintDetails.css';
+@import '../src/styles/EditProfile.css';
+@import '../src/AppModules/GRM9/SupportModule.css';
+@import '../src/styles/MandiPrice.css';

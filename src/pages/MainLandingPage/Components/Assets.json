@@ -1,0 +1,100 @@
+{
+  "Categories": [
+    {
+      "categorycode": 2,
+      "category": "Agri-Input Shops",
+      "description": "description for Agri-Input Shops",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/Agri-InputShops.png"
+    },
+    {
+      "categorycode": 20,
+      "category": "Cold Store",
+      "description": "description for Cold store",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/cold-storage.png"
+    },
+    {
+      "categorycode": 3,
+      "category": "PACS",
+      "description": "description for PACS",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/PACS.png"
+    },
+    {
+      "categorycode": 1,
+      "category": "Panchayat Office",
+      "description": "description for Panchayat Office",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/PanchayatOffice.png"
+    },
+    {
+      "categorycode": 6,
+      "category": "e-KISAN Bhawan",
+      "description": "description for e-KISAN Bhawan",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/e-KISANBhawan.png"
+    },
+    {
+      "categorycode": 8,
+      "category": "Agri Godowns",
+      "description": "description for Agri Godowns",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/AgriGodowns.png"
+    },
+    {
+      "categorycode": 9,
+      "category": "Agriculture Farms",
+      "description": "description for Agriculture Farms",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/AgricultureFarms.png"
+    },
+    {
+      "categorycode": 11,
+      "category": "Rice Mill",
+      "description": "description for Rice Mill",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/RiceMill.png"
+    },
+    {
+      "categorycode": 12,
+      "category": "Custom Hiring Centre",
+      "description": "description for Custom Hiring Centre",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/CustomHiringCentre.png"
+    },
+    {
+      "categorycode": 16,
+      "category": "Pashu Bazar",
+      "description": "description for Pashu Bazar",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/PashuBazar.png"
+    },
+    {
+      "categorycode": 17,
+      "category": "KVK",
+      "description": "description for KVK",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/KVK.png"
+    },
+    {
+      "categorycode": 18,
+      "category": "DAO office",
+      "description": "description for DAO office",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/DAOOffice.png"
+    },
+    {
+      "categorycode": 19,
+      "category": "Agriculture College",
+      "description": "description for Agriculture College",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/AgricultureCollege.png"
+    },
+    {
+      "categorycode": 21,
+      "category": "Farmers Producers Organisation",
+      "description": "description for Farmers Producers Organisation",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/AgricultureCollege.png"
+    },
+    {
+      "categorycode": 22,
+      "category": "Traders",
+      "description": "description for Traders",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/E-nam-Traders.png"
+    },
+    {
+      "categorycode": 24,
+      "category": "Market Nodes",
+      "description": "Bazar Samiti list",
+      "url": "https://filestoragedfs.blob.core.windows.net/publicresources/images/E-nam-Traders.png"
+    }
+  ]
+}

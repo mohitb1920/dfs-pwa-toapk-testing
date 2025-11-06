@@ -1,0 +1,29 @@
+{
+    "stats": [
+        {
+            "id": 1,
+            "value": "Storage",
+            "description": "Users across all our platforms"
+        },
+        {
+            "id": 2,
+            "value": "Office",
+            "description": "Users across all our platforms"
+        },
+        {
+            "id": 3,
+            "value": "Education",
+            "description": "Users across all our platforms"
+        },
+        {
+            "id": 4,
+            "value": "Bazaar",
+            "description": "Users across all our platforms"
+        },
+        {
+            "id": 5,
+            "value": "Others",
+            "description": "Users across all our platforms"
+        }
+    ]
+}

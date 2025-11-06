@@ -1,0 +1,77 @@
+{
+    "OurOffering": [
+        {
+            "image": "mandiPrices.png",
+            "en": {
+                "header": "Live Mandi Prices",
+                "description": "Stay updated with real-time mandi prices to make informed selling decisions."
+            },
+            "hi": {
+                "header": "बाजार भाव (लाइव)",
+                "description": "सूचित बिक्री निर्णय लेने के लिए वास्तविक समय के मंडी मूल्यों से अपडेट रहें।"
+            },
+            "redirect": "",
+            "isEnabled": false
+        },
+        {
+            "image": "weather_image.png",
+            "en": {
+                "header": "Weather Information",
+                "description": "Real time weather updates for better crop management."
+            },
+            "hi": {
+                "header": "मौसम की जानकारी",
+                "description": "बेहतर फसल प्रबंधन के लिए वास्तविक समय मौसम अपडेट।"
+            },
+            "redirect": "",
+            "isEnabled": false
+        },
+        {
+            "image": "Agriculture.png",
+            "en": {
+                "header": "Agricultural Directory",
+                "description": "Get contact information for KVKs, government offices, and agricultural officials."
+            },
+            "hi": {
+                "header": "कृषि निर्देशिका",
+                "description": "के.वी.के, सरकारी कार्यालयों और कृषि अधिकारियों के लिए संपर्क जानकारी प्राप्त करें।"
+            }
+        },
+        {
+            "image": "Agriculture.png",
+            "en": {
+                "header": "Single-Window Platform",
+                "description": "Seamlessly access Bihar and Central Government agricultural schemes, financial options, market linkages, and expert advisory services."
+            },
+            "hi": {
+                "header": "सिंगल-विंडो प्लेटफ़ॉर्म",
+                "description": "बिहार और केंद्र सरकार की कृषि योजनाओं, वित्तीय विकल्पों, बाज़ार संपर्कों और विशेषज्ञ सलाहकार सेवाओं तक सहज पहुँच।"
+            },
+            "redirect": "",
+            "isEnabled": false
+        },
+        {
+            "image": "image-url-3.jpg",
+            "en": {
+                "header": "Updates & Notifications",
+                "description": "Receive instant updates from the Bihar Agriculture Department on your phone."
+            },
+            "hi": {
+                "header": "अपडेट और सूचनाएँ",
+                "description": "अपने फ़ोन पर बिहार कृषि विभाग से तुरंत अपडेट प्राप्त करें।"
+            },
+            "redirect": ""
+        },
+        {
+            "image": "image-url-3.jpg",
+            "en": {
+                "header": "Locational Services",
+                "description": "Find nearby Agri-input shops, cold storage, PACS, custom hiring centers, KVKs, and FPOs."
+            },
+            "hi": {
+                "header": "स्थानीय सेवा एवं सेवा प्रदाता",
+                "description": "आस-पास की कृषि-इनपुट दुकानें, कोल्ड स्टोरेज, पैक्स, कस्टम हायरिंग सेंटर, केवीके और एफपीओ खोजें।"
+            }
+        }
+    ]
+}

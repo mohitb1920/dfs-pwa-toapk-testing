@@ -1,0 +1,80 @@
+.otp-input-container {
+  padding: 32px;
+  background: var(--Neutral-neutral-100, #ffffff);
+  border-radius: 12px;
+}
+
+.dark-theme .otp-input-container {
+  background-color: #1a1d21;
+}
+.otp-set-sucess-msg {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #515456;
+  padding-bottom: 32px;
+}
+
+.dark-theme .otp-set-sucess-msg {
+  color: #ffffff;
+}
+.enter-one-time-password-text {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600 !important;
+  color: #0a0d0b;
+  line-height: 20px;
+  padding-bottom: 8px;
+}
+.dark-theme .enter-one-time-password-text {
+  color: #ffffff;
+}
+
+.verify-farmer-details-text {
+  font-family: Inter !important;
+  font-weight: 700 !important;
+  letter-spacing: -0.02em !important;
+}
+
+.dark-theme .verify-farmer-details-text {
+  color: #ffffff !important;
+}
+
+.verify-farmer-details-subtext {
+  font-family: Inter !important;
+  font-weight: 400 !important;
+  color: #5c6460;
+}
+
+.dark-theme .verify-farmer-details-subtext {
+  color: #ffffff;
+}
+
+.farmer-dbt-input-section {
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 12px;
+}
+
+.dark-theme .farmer-dbt-input-section {
+  background-color: #1a1d21;
+}
+
+.farmer-dbt-input-header-text {
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 20px !important;
+  color: #1c211e !important;
+  padding-bottom: 8px;
+}
+
+.dark-theme .farmer-dbt-input-header-text {
+  color: #ffffff !important;
+}
+
+@media (max-width: 640px) {
+  .otp-input-container {
+    padding: 16px;
+  }
+}

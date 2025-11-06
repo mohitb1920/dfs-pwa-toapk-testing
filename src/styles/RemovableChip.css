@@ -1,0 +1,11 @@
+.removable-chip {
+  border-radius: 20px;
+  background-color: #e6e6e6;
+  padding: 6px 12px;
+  display: flex;
+  align-items: center;
+}
+
+.dark-theme .removable-chip {
+  background-color: #595959;
+}

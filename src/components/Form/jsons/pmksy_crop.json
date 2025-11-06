@@ -1,0 +1,84 @@
+{
+    "crop-list": [
+        {
+            "id": 18,
+            "en": "Sugarcane",
+            "hi": "गन्ना"
+        },
+        {
+            "id": 197,
+            "en": "Tea",
+            "hi": "चाय"
+        },
+        {
+            "id": 46,
+            "en": "Papaya",
+            "hi": "पपीता"
+        },
+        {
+            "id": 8,
+            "en": "Maize/Corn",
+            "hi": "मक्का"
+        },
+        {
+            "id": 21,
+            "en": "Wheat",
+            "hi": "गेंहूँ"
+        },
+        {
+            "id": 27,
+            "en": "Banana",
+            "hi": "केला"
+        },
+        {
+            "id": 100,
+            "en": "Pulses",
+            "hi": "दालें"
+        },
+        {
+            "id": 102,
+            "en": "Vegetables",
+            "hi": "सब्जियां"
+        },
+        {
+            "id": 91,
+            "en": "Flower Crops",
+            "hi": "फूलों की फसलें"
+        },
+        {
+            "id": 103,
+            "en": "Fruit",
+            "hi": "फल"
+        },
+        {
+            "id": 11,
+            "en": "Oilseeds",
+            "hi": "तिलहन"
+        },
+        {
+            "id": 175,
+            "en": "Spices",
+            "hi": "मसाले"
+        },
+        {
+            "id": 150,
+            "en": "Medicinal plants",
+            "hi": "औषधीय पौधे"
+        },
+        {
+            "id": 162,
+            "en": "Betelvine",
+            "hi": "पान"
+        },
+        {
+            "id": 54,
+            "en": "Strawberry",
+            "hi": "स्ट्रॉबेरी"
+        },
+        {
+            "id": 12,
+            "en": "Rice",
+            "hi": "धान"
+        }
+    ]
+}

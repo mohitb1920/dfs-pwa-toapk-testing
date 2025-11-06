@@ -1,0 +1,26 @@
+.mainContainerSchemes {
+  width: 100%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainBoxSchemes {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.schemesviewAll {
+  height: 52px;
+  width: 20rem;
+  margin-top: 40px !important;
+}
+
+@media (max-width: 640px) {
+  .schemesviewAll {
+    margin-top: 12px !important;
+    width: 11rem;
+    height: 48px;
+  }
+}

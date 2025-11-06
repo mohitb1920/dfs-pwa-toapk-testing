@@ -1,0 +1,83 @@
+.GradientBackground {
+  /* background: linear-gradient(
+      90deg,
+      rgba(115, 232, 148, 0.3) 0%,
+      rgba(26, 92, 75, 0.2) 100%
+    ),
+    #18342d; */
+  width: 100%;
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+}
+
+.ContentWrapper {
+  position: relative;
+  margin-right: 0;
+  margin-bottom: 3rem;
+  z-index: 2;
+}
+
+@media (min-width: 768px) {
+  .ContentWrapper {
+    margin-right: 4rem;
+    margin-bottom: 0;
+  }
+}
+
+.TitleWrapper {
+  flex: 1;
+  margin-right: 0;
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 768px) {
+  .TitleWrapper {
+    margin-right: 4rem;
+    margin-bottom: 0;
+  }
+}
+
+.TitleText {
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
+
+.Highlight {
+  color: #feca57;
+}
+
+@media (max-width: 768px) {
+  .LeafIcon2 {
+    display: none;
+  }
+  .LeafIcon3 {
+    display: none;
+  }
+  .TitleWrapper {
+    margin-bottom: 16px;
+  }
+  .TitleText {
+    margin-bottom: 0px;
+    font-size: 1.25rem;
+  }
+}
+
+.LeafIcon2 {
+  position: absolute;
+  bottom: 0px;
+  left: 10px;
+  width: 50px;
+  z-index: 1;
+}
+
+.LeafIcon3 {
+  position: absolute;
+  bottom: 0px;
+  left: 120px;
+  width: 50px;
+  z-index: 1;
+}

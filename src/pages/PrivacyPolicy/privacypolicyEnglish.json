@@ -1,0 +1,234 @@
+{
+    "privacyPolicy": [
+        {
+            "id": 0,
+            "name": "Copyright Policy",
+            "content": [
+                {
+                    "name": "Copyright Policy",
+                    "content": [
+                        "Material featured on this website may be reproduced free of charge. However, the material has to be reproduced accurately and not to be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to others, the source must be prominently acknowledged. However, the permission to reproduce this material shall not extend to any material which is identified as being copyright of a third party. Authorization to reproduce such material must be obtained from the department/copyright holder concerned."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Privacy Policy",
+            "content": [
+                {
+                    "name": "Privacy Policy",
+                    "content": [
+                        "Thanks for visiting website of Bihar Krishi, Agriculture Department, and reviewing our privacy policy.",
+                        "This website does not automatically capture any specific personal information from you (like name, phone number or e-mail address), that allows us to identify you individually. If you choose to provide us with your personal information, like names or addresses, when you visit our website, we use it only to fulfil your request for information.We do not sell or share any personally identifiable information volunteered on this site to any third party (public/private). Any information provided to this website will be protected from loss, misuse, unauthorized access or disclosure, alteration, or destruction.",
+                        "We gather certain information about the User, such as Internet protocol (IP) address, domain name, browser type, operating system, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our site unless an attempt to damage the site has been detected. This information is only used to help us make the site more useful for you. With this data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits."
+                    ]
+                },
+                {
+                    "name": "Data Protection Rights",
+                    "content": [
+                        "In accordance with applicable data protection laws, you have specific rights concerning your personal data. These rights empower you to control how your information is collected, used, and managed. Below are the rights you can exercise as a User:"
+                    ],
+                    "bulletPoints": {
+                        "data": [
+                            {
+                                "title": "Right to Access Information",
+                                "description": "You can request details about the personal data we hold about you, including how we use it, who can access it, and any terms related to third-party access."
+                            },
+                            {
+                                "title": "Right to a Copy",
+                                "description": "You can request a copy of your personal data that we possess."
+                            },
+                            {
+                                "title": "Right to Data Portability",
+                                "description": "You can ask us to provide your personal data in a structured, commonly used, and machine-readable format for transfer to another data controller."
+                            },
+                            {
+                                "title": "Right to Correction",
+                                "description": "You can request corrections or updates to your personal data if it is incorrect or incomplete."
+                            },
+                            {
+                                "title": "Right to Deletion",
+                                "description": "You can request the deletion of your personal data."
+                            },
+                            {
+                                "title": "Right to Restrict Processing",
+                                "description": "You can ask us to stop or limit the processing of your personal data."
+                            },
+                            {
+                                "title": "Right to Withdraw Consent",
+                                "description": "You can withdraw your consent at any time if we are processing your data based on your consent."
+                            },
+                            {
+                                "title": "Right to Non-Discrimination",
+                                "description": "You have the right to be treated fairly when exercising your data protection rights."
+                            },
+                            {
+                                "title": "Right to Review",
+                                "description": "You can request that the Department’s Data Protection Officer reviews our response to your request for exercising your data protection rights."
+                            },
+                            {
+                                "title": "Right to Legal Remedies",
+                                "description": "Depending on your location, you can seek additional legal actions, such as filing a complaint with your data protection authority or pursuing a legal case if you are unsatisfied with our response."
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cookies Policy",
+            "content": [
+                {
+                    "name": "Cookies Policy",
+                    "content": [
+                        "A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. A cookie is stored as a simple text file on your computer or mobile device by a website’s server and only that server will be able to retrieve or read the contents of that cookie. Cookies let you navigate between pages efficiently as they store your preferences, and generally improve your experience of a website.",
+                        "We are using following types of cookies in our site: -"
+                    ],
+                    "bulletPoints": {
+                        "showBullet": true,
+                        "data": [
+                            {
+                                "description": "Analytics cookies for anonymously remembering your computer or mobile device when you visit our website to keep track of browsing patterns."
+                            },
+                            {
+                                "description": "Service cookies for helping us to make our website work efficiently, remembering your registration and login details, settings preferences, and keeping track of the pages, you view."
+                            },
+                            {
+                                "description": "Non-persistent cookies a.k.a. per-session cookies. Per-session cookies serve technical purposes, like providing seamless navigation through this website. These cookies do not collect personal information on users and they are deleted as soon as you leave our website. The cookies do not permanently record data and they are not stored on your computer’s hard drive. The cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears."
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Hyperlinking Policy",
+            "content": [
+                {
+                    "name": "Links to external websites/portals",
+                    "content": [
+                        "At many places in this website, you shall find links to other websites/portals. These links have been placed for your convenience. Agriculture Department Office is not responsible for the contents of the linked websites and does not necessarily endorse the views expressed in them. Mere presence of the link or its listing on this website should not be assumed as endorsement of any kind. We cannot guarantee that these links will work all the time and we have no control over availability of linked destinations."
+                    ]
+                },
+                {
+                    "name": "Links to Agriculture Department Office Website by other websites/portals",
+                    "content": [
+                        "We do not object to you linking directly to the information that is hosted on this web site and no prior permission is required for the same. However, we would like you to inform us about any links provided to this website so that you can be informed of any changes or updates therein. Also, we do not permit our pages to be loaded into frames on your site. The pages belonging to this website must load into a newly opened browser window of the User."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Terms & Conditions",
+            "content": [
+                {
+                    "name": "Terms & Conditions",
+                    "content": [
+                        "Though all efforts have been made to ensure the accuracy and currency of the content on this website, the same should not be construed as a statement of law or used for any legal purposes. In case of any ambiguity or doubts, users are advised to verify/check with the Agriculture Department’s Office, GoB and/or other source(s), and to obtain appropriate professional advice.",
+                        "Under no circumstances will the Agriculture Department’s Office, GoB be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from the use, or loss of use, of data, arising out of or in connection with the use of this website.",
+                        "These terms and conditions shall be governed by and construed in accordance with the Indian Laws. Any dispute arising under these terms and conditions shall be subject to the jurisdiction of the courts of India.",
+                        "The information posted on this website could include hypertext links or pointers to information created and maintained by non-Government/private organisations. The Agriculture Department’s Office, GoB is providing these links and pointers solely for your information and convenience. When you select a link to an external website, you are leaving the Agriculture Department’s Office, GoB website and are subject to the privacy and security policies of the owners/sponsors of the external website.",
+                        "Agriculture Department’s Office, GoB does not guarantee the availability of such linked pages at all times. The Prime Minister’s Office cannot authorise the use of copyrighted materials contained in a linked website. Users are advised to request such authorisation from the owner of the linked website.",
+                        "Agriculture Department’s Office, GoB does not guarantee that linked websites comply with Indian Government Web Guidelines."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Regional Language Policy",
+            "content": [
+                {
+                    "name": "Regional Language Policy",
+                    "content": [
+                        "Though all efforts have been made to ensure the accuracy of the content in regional languages on this Portal, the same should not be construed as a statement of law or used for any legal purposes. For any discrepancy in the regional language content you may refer to the original English content. For any error in language, you may report the same through the online feedback form.",
+                        "Agriculture  Department’s Office, GoB accepts no responsibility in relation to the accuracy, completeness, usefulness or otherwise, of the contents. In no event will the Government be liable for any expense, loss or damage including, without limitation, indirect or consequential loss or damage, or any expense, loss or damage whatsoever arising from use, or loss of use, of data, arising out of or in connection with the use of this Portal."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Content Review Policy",
+            "content": [
+                {
+                    "name": "Content Review Policy",
+                    "content": [
+                        "Content Contribution, Moderation & Approval (CMAP) Policy, Content Archival (CAP) Policy: All possible efforts need to be taken to keep the content on the Website current and up-to-date. This Content Review Policy defines the roles and responsibilities of the website content review and the manner in which it needs to be carried out. Review Policies are defined for the diverse content elements.",
+                        "The Review Policy is based on different types of content elements, their validity and relevance, as well as the archival policy.",
+                        "The entire website content would be reviewed for syntax checks once a month by the Agriculture Department's Office, GoB Team."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Website Monitoring Policy",
+            "content": [
+                {
+                    "name": "Website Monitoring Policy",
+                    "content": [
+                        "Agriculture Department’s Office, GoB has a Website Monitoring Policy in place and the website is monitored periodically to address and fix the quality and compatibility issues around the following parameters:",
+                        "Performance: Site download time is optimized for a variety of network connections as well as devices. All important pages of the website are tested for this.",
+                        "Functionality: All modules of the website are tested for their functionality. The interactive components of the site, such as feedback forms, are working smoothly.",
+                        "Broken Links: The website is thoroughly reviewed to rule out the presence of any broken links or errors.",
+                        "Traffic Analysis: The site traffic is regularly monitored to analyze the usage patterns as well as visitors’ profiles and preferences.",
+                        "Feedback: Feedback from the visitors is the best way to judge a website’s performance and make necessary improvements. A proper mechanism for feedback is in place to carry out the changes and enhancements as suggested by the visitors."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Website Contingency Management Policy",
+            "content": [
+                {
+                    "name": "Website Contingency Management Policy",
+                    "content": [
+                        "The presence of the website on the Internet and, very importantly, the site is fully functional at all times. It is expected of the Government websites to deliver information and services on a 24x7 basis. Hence, all efforts should be made to minimize the downtime of the website as far as possible.",
+                        "It is therefore necessary that a proper Contingency Plan be prepared to handle any eventualities and restore the site in the shortest possible time. The possible contingencies include:",
+                        "Defacement of the website: All possible security measures must be taken for the website to prevent any possible defacement/hacking by unscrupulous elements. However, if despite the security measures in place, such an eventuality occurs, there must be a proper contingency plan, which should immediately come into force. If it has been established beyond doubt that the website has been defaced, the site must be immediately blocked. The contingency plan must clearly indicate who is the person authorized to decide on the further course of action in such eventualities. The complete contact details of this authorized person must be available at all times with the web management team. Efforts should be made to restore the original site in the shortest possible time. At the same time, regular security reviews and checks should be conducted to plug any loopholes in the security.",
+                        "Data Corruption: A proper mechanism has to be worked out by the concerned team in consultation with their web hosting service provider to ensure that appropriate and regular backups of the website data are being taken. These enable a fast recovery and uninterrupted availability of the information to the citizens in view of any data corruption.",
+                        "Hardware/Software Crash: Though such an occurrence is rare, if the server on which the website is being hosted crashes due to some unforeseen reason, the web hosting service provider must have enough redundant infrastructure available to restore the website at the earliest.",
+                        "Natural Disasters: There could be circumstances whereby due to some natural calamity, the entire data center where the website is being hosted gets destroyed or ceases to exist. A well-planned contingency mechanism has to be in place for such eventualities whereby it should be ensured that the Hosting Service Provider has a Disaster Recovery Centre (DRC) set up at a geographically remote location and the website is switched over to the DRC with minimum delay and restored on the Net.",
+                        "Apart from the above, in the event of any National Crisis or unforeseen calamity, Government websites are looked upon as a reliable and fast source of information to the public. A well-defined contingency plan for all such eventualities must be in place so that the emergency information/contact help-lines could be displayed on the website without any delay. For this, the concerned person in the Agriculture Department’s Office, GoB, responsible for publishing such emergency information must be identified, and the complete contact details should be available at all times."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Website Security Policy",
+            "content": [
+                {
+                    "name": "Website Security Policy",
+                    "content": [
+                        "Agriculture  Department's Office, GoB website contains information which is freely accessible, and may be viewed by any visitor. However, the website maintains a copyright interest in the contents of all of its websites.",
+                        "Except for authorized security investigations and data collection, no attempts will be made to identify individual users. Accumulated data logs will be scheduled for regular deletion. The Website Privacy Policy details our position regarding the use of personal information provided by customers/visitors.",
+                        "Unauthorized attempts to upload information or change information are strictly prohibited, and may be punishable under the Information Technology Act, 2000 and any other applicable law(s).",
+                        "User ID and Password Policy:",
+                        "Access to sensitive or proprietary business information on Agriculture Department’s Office, GoB websites is limited to users who have been determined to have an appropriate official reason for having access to such data. All registered users who are granted security access will be identified by a user name provided by webmaster.",
+                        "Users who are granted password access to restricted information are prohibited from sharing those passwords with or divulging those passwords to any third parties. User will notify us immediately in the event a User ID or password is lost or stolen or if User believes that a non-authorized individual has discovered the User ID or password.",
+                        "If you have any questions or comments regarding Agriculture Department’s Office, GoB Website Security Policy, please contact the Web Information Manager by using the Feedback option in Agriculture Department's Office, GoB website."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Disclaimer",
+            "content": [
+                {
+                    "name": "Disclaimer",
+                    "content": [
+                        "This website of theAgriculture  Department’s Office, GoB is being maintained for information purposes only. Even though every effort is taken to provide accurate and up to date information, officers making use of the circulars posted on the website are advised to get in touch with theAgriculture  Department’s Office, GoB whenever there is any doubt regarding the correctness of the information contained therein. In the event of any conflict between the contents of the circulars on the website and the hard copy of the circulars issued byAgriculture  Department’s Office, GoB, the information in the hard copy should be relied upon and the matter shall be brought to the notice of the Agriculture  Department’s Office, GoB."
+                    ]
+                }
+            ]
+        }
+    ]
+}

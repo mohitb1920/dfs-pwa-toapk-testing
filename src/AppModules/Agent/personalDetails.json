@@ -1,0 +1,236 @@
+{
+  "personalDetails": {
+    "type": "object",
+    "title": "PERSONAL_DETAILS",
+    "properties": {
+      "farmerName": {
+        "type": "text",
+        "title": "FARMER_NAME",
+        "enabled": true,
+        "order": 1,
+        "validation": {
+          "required": true,
+          "minLength": 2,
+          "errorMessages": {
+            "required": "REQUIRED_FARMER_NAME",
+            "minLength": "FARMER_NAME_MINLENGTH"
+          }
+        }
+      },
+      "farmerRelativeName": {
+        "type": "text",
+        "title": "FATHER/MOTHER/HUSBAND_NAME",
+        "enabled": true,
+        "order": 2,
+        "validation": {
+          "required": true,
+          "maxLength": 100,
+          "errorMessages": {
+            "required": "REQUIRED_RELATIVE_NAME",
+            "maxLength": "FARMER_RELATIVE_NAME_MAXLENGTH"
+          }
+        }
+      },
+      "DOB": {
+        "type": "date",
+        "title": "DATE_OF_BIRTH",
+        "enabled": true,
+        "order": 3,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_DOB"
+          }
+        }
+      },
+      "age": {
+        "type": "number",
+        "title": "AGE",
+        "enabled": false,
+        "validation": {
+          "required": false,
+          "errorMessages": {
+            "required": "REQUIRED_AGE"
+          }
+        },
+        "order": 4
+      },
+      "farmerGender": {
+        "type": "select",
+        "title": "GENDER",
+        "options": ["MALE", "FEMALE", "OTHER"],
+        "order": 5,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_GENDER"
+          }
+        }
+      },
+      "farmerMobileNumber": {
+        "type": "number",
+        "title": "MOBILE_NUMBER",
+        "enabled": true,
+        "order": 6,
+        "validation": {
+          "required": true,
+          "maxLength": 10,
+          "minLength": 10,
+          "errorMessages": {
+            "required": "REQUIRED_MOBILE_NUMBER",
+            "maxLength": "MOBILE_MAXLENGTH",
+            "minLength": "MOBILE_MINLENGTH"
+          }
+        }
+      },
+      "farmerType": {
+        "type": "select",
+        "title": "FARMER_TYPE",
+        "options": ["SMALL", "MEDIUM", "LARGE"],
+        "enabled": true,
+        "order": 7,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_FARMER_TYPE"
+          }
+        }
+      },
+      "farmerCasteCategory": {
+        "type": "select",
+        "title": "CASTE_CATEGORY",
+        "options": ["MINORITY", "SC", "ST", "OBC", "BACKWARD", "GENERAL"],
+        "enabled": true,
+        "order": 8,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_CASTE_CATEGORY"
+          }
+        }
+      },
+      "farmerCategory": {
+        "type": "select",
+        "title": "FARMER_CATEGORY",
+        "options": ["OWN", "RENTED", "MIXED"],
+        "enabled": true,
+        "order": 9,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_FARMER_CATEGORY"
+          }
+        }
+      }
+    }
+  },
+  "locationDetails": {
+    "type": "object",
+    "title": "LOCATION_DETAILS",
+    "properties": {
+      "district": {
+        "type": "select",
+        "title": "DISTRICT",
+        "order": 10,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_DISTRICT"
+          }
+        }
+      },
+      "block": {
+        "type": "select",
+        "title": "BLOCK",
+        "order": 11,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_BLOCK"
+          }
+        }
+      },
+      "panchayat": {
+        "type": "select",
+        "title": "VILLAGE_PANCHAYAT",
+        "order": 12,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_PANCHAYAT"
+          }
+        }
+      },
+      "village": {
+        "type": "select",
+        "title": "VILLAGE",
+        "order": 13,
+        "optionsFromAPI": true,
+        "enabled": true,
+        "validation": {
+          "required": true,
+          "errorMessages": {
+            "required": "REQUIRED_VILLAGE"
+          }
+        }
+      },
+      "pincode": {
+        "type": "number",
+        "title": "PINCODE",
+        "validation": {
+          "required": false,
+          "minLength": 6,
+          "maxLength": 6,
+          "pattern": "^[0-9]{6}$",
+          "errorMessages": {
+            "pattern": "PINCODE_PATTERN",
+            "maxLength": "PINCODE_PATTERN",
+            "minLength": "PINCODE_PATTERN"
+          }
+        },
+        "order": 14,
+        "enabled": true
+      }
+    }
+  },
+  "bankDetails": {
+    "type": "object",
+    "title": "BANK_DETAILS",
+    "properties": {
+      "bankName": {
+        "type": "text",
+        "title": "BANK_NAME",
+        "enabled": false,
+        "order": 15,
+        "validation": {
+          "required": false
+        }
+      },
+      "accountNumber": {
+        "type": "number",
+        "title": "ACCOUNT_NUMBER",
+        "enabled": false,
+        "order": 16,
+        "validation": {
+          "required": false
+        }
+      },
+      "ifscCode": {
+        "type": "text",
+        "title": "IFSC_CODE",
+        "enabled": false,
+        "order": 17,
+        "validation": {
+          "required": false
+        }
+      }
+    }
+  }
+}

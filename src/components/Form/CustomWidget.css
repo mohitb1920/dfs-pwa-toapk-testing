@@ -1,0 +1,10 @@
+.required-field {
+  color: #F13005 !important;
+}
+.input-label {
+  font-family: Inter !important;
+  font-size: 14px !important;
+  font-weight: 600 !important;
+  line-height: 24px !important;
+  letter-spacing: 0em !important;
+}

@@ -1,0 +1,90 @@
+/* src/components/Button.css */
+
+/* Base button styles */
+.custom-button {
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700 !important;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
+}
+
+/* Sizes */
+.custom-button.small {
+  height: 32px;
+  padding: 4px 12px;
+}
+
+.custom-button.medium {
+  height: 40px;
+  padding: 8px 16px;
+}
+
+.custom-button.large {
+  height: 56px;
+  padding: 12px 40px;
+}
+
+/* Colors */
+.custom-button.primary {
+  background-color: rgba(247, 213, 8, 1); /* Brand-yellow */
+  color: #1C211E;
+  }
+  
+  .dark-theme .custom-button.primary {
+    background-color: #85BC31;
+}
+
+.custom-button.secondary {
+  background-color: rgba(255, 255, 255, 1); /* Neutral-white */
+  color: var(--Neutral-neutral-800, rgba(28, 33, 30, 1));
+  border: 1px solid #ccc;
+}
+
+.dark-theme .custom-button.secondary {
+  background-color: rgba(34, 37, 41, 1);
+  color: rgba(133, 188, 49, 1);
+  border: 1px solid rgba(133, 188, 49, 1);
+}
+
+.custom-button.neutral {
+  background-color: rgba(162, 171, 166, 1); /* Neutral-grey */
+  color: var(--Neutral-neutral-100, rgba(255, 255, 255, 1));
+}
+
+.custom-button.enabled {
+  opacity: 1;
+}
+
+.custom-button.disabled {
+  background-color: #a2aba6 !important;
+  color: white !important;
+  cursor: not-allowed !important;
+  font-weight: 600 !important;
+  pointer-events: auto !important;
+}
+
+.dark-theme .custom-button.disabled {
+  background-color: #4E5752 !important;
+}
+.dark-theme .custom-button.secondary.disabled {
+  border: 1px solid #4E5752 !important;
+}
+.custom-button.primary.enabled:hover {
+  background-color: #93D134;
+  }
+  
+  .custom-button.primary.enabled.pressed:hover {
+    background-color: #85BC31 !important;
+}
+
+.custom-button.secondary.enabled:hover {
+  background-color: rgba(28, 33, 30, 1);
+  color: white;
+}
+
+.custom-button.neutral.enabled:hover {
+  background-color: rgba(120, 120, 120, 1);
+}

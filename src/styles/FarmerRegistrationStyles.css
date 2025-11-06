@@ -1,0 +1,47 @@
+.mainContainer {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding-bottom: 90px;
+}
+
+.profilePhoto {
+  height: 175px;
+  width: 100%;
+  position: absolute;
+  bottom: -108px;
+  z-index: 1;
+}
+/* .profilePhoto {
+  height: 175px;
+  margin-left: 4.3rem;
+} */
+.css-118ox18-MuiPaper-root-MuiDialog-paper {
+  border-radius: 20px !important;
+}
+
+@media (max-width: 768px) {
+  .css-118ox18-MuiPaper-root-MuiDialog-paper {
+      margin: 10px !important;
+      border-radius: 20px !important;
+    }
+  .LeafProfileIcon2 {
+    display: none;
+  }
+  .LeafProfileIcon3 {
+    display: none;
+  }
+}
+.LeafProfileIcon2 {
+  position: absolute;
+  bottom: 0px;
+  right: 29px;
+  z-index: 1;
+}
+.LeafProfileIcon3 {
+  position: absolute;
+  bottom: 0px;
+  right: 131px;
+  z-index: 1;
+}
